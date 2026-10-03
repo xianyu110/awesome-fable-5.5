@@ -22,6 +22,8 @@ header p{color:var(--sub);margin:4px 0}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
 .hd{height:76px;display:flex;align-items:center;justify-content:space-between;padding:0 16px;font-size:30px}
+.cv{position:relative;display:block;aspect-ratio:16/9;background:#000;overflow:hidden}.cv img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}.card:hover .cv img{transform:scale(1.04)}.cv .tag{position:absolute;top:10px;right:10px;font-size:12px;background:rgba(0,0,0,.6);padding:3px 10px;border-radius:999px;color:#fff}.cv .dur{position:absolute;bottom:8px;right:10px;font-size:12px;background:rgba(0,0,0,.7);padding:1px 7px;border-radius:5px;color:#fff}
+.card.hl{outline:3px solid var(--acc);box-shadow:0 0 24px rgba(217,119,87,.5)}
 .hd .tag{font-size:12px;background:rgba(0,0,0,.35);padding:3px 10px;border-radius:999px;color:#fff}
 .c-motion .hd{background:linear-gradient(120deg,#d97757,#8a3b5c)}.c-3d .hd{background:linear-gradient(120deg,#3a7bd5,#00d2ff)}
 .c-game .hd{background:linear-gradient(120deg,#11998e,#38ef7d)}.c-edu .hd{background:linear-gradient(120deg,#b8860b,#e9c46a)}
@@ -59,25 +61,27 @@ GitHub：<a href="https://github.com/xianyu110/awesome-fable-5.5">xianyu110/awes
 const EMO={motion:"🎬","3d":"🧊",game:"🎮",edu:"📚",compare:"⚖️",other:"🧩"};
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmt=n=>n>=10000?(n/10000).toFixed(1)+"万":n;
-let DATA,cur="all";
+let DATA,cur=new URLSearchParams(location.search).get("cat")||"all";
 fetch("cases.json").then(r=>r.json()).then(d=>{DATA=d;
  document.getElementById("stat").textContent=`共 ${d.cases.length} 个案例 · ${d.categories.length} 个分类 · 更新于 ${d.updated_at}`;
  const bar=document.getElementById("bar"),q=document.getElementById("q");
  [{id:"all",zh:"全部"},...d.categories].forEach(c=>{const b=document.createElement("button");
   const n=c.id==="all"?d.cases.length:d.cases.filter(x=>x.category===c.id).length;
-  b.textContent=`${c.zh} (${n})`;b.dataset.id=c.id;if(c.id==="all")b.className="on";
+  b.textContent=`${c.emoji||""} ${c.zh} (${n})`.trim();b.dataset.id=c.id;if(c.id===cur)b.className="on";
   b.onclick=()=>{cur=c.id;bar.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render()};bar.insertBefore(b,q)});
- q.oninput=render;render()});
+ q.oninput=render;render();focusHash()});
+window.addEventListener("hashchange",focusHash);
+function focusHash(){const id=decodeURIComponent(location.hash.slice(1));if(!id||!DATA)return;let el=document.getElementById(id);if(!el&&DATA.cases.some(c=>c.id===id)){cur="all";document.getElementById("q").value="";document.querySelectorAll("#bar button").forEach(x=>x.classList.toggle("on",x.dataset.id==="all"));render();el=document.getElementById(id)}if(el){document.querySelectorAll(".card.hl").forEach(x=>x.classList.remove("hl"));el.classList.add("hl");setTimeout(()=>el.scrollIntoView({behavior:"smooth",block:"center"}),100)}}
 function render(){const k=document.getElementById("q").value.trim().toLowerCase();
  const cat=Object.fromEntries(DATA.categories.map(c=>[c.id,c.zh]));
  const list=DATA.cases.filter(c=>(cur==="all"||c.category===cur)&&(!k||[c.title_zh,c.title_en,c.description_zh,c.author,c.prompt].join(" ").toLowerCase().includes(k)));
  if(cur==="all")list.sort((a,b)=>b.likes-a.likes);
- document.getElementById("grid").innerHTML=list.map((c,i)=>`<div class="card c-${c.category}">
- <div class="hd">${EMO[c.category]}<span class="tag">${esc(cat[c.category])}</span></div>
+ document.getElementById("grid").innerHTML=list.map((c,i)=>`<div class="card c-${c.category}" id="${c.id}">
+ ${c.cover?`<a class="cv" href="${c.post_url}" target="_blank" rel="noopener"><img loading="lazy" src="${c.cover}" alt="${esc(c.title_zh)}"><span class="tag">${EMO[c.category]} ${esc(cat[c.category])}</span>${c.duration_seconds?`<span class="dur">${Math.floor(c.duration_seconds/60)}:${String(c.duration_seconds%60).padStart(2,"0")}</span>`:""}</a>`:`<div class="hd">${EMO[c.category]}<span class="tag">${esc(cat[c.category])}</span></div>`}
  <div class="bd"><h3>${esc(c.title_zh)}</h3><div class="en">${esc(c.title_en)}</div>
  <div class="desc">${esc(c.description_zh)}</div>
  ${c.prompt?`<div class="pr"><button onclick="navigator.clipboard.writeText(this.nextElementSibling.textContent);this.textContent='已复制'">复制</button><span>${esc(c.prompt)}</span></div>`:""}
- <div class="meta"><a href="${c.author_url}" target="_blank" rel="noopener">@${esc(c.author)}</a> · ${c.posted_at_utc8} · ❤️ ${fmt(c.likes)} · 👀 ${fmt(c.views)}</div>
+ <div class="meta">${esc(c.model)} · <a href="${c.author_url}" target="_blank" rel="noopener">@${esc(c.author)}</a> · ${c.posted_at_utc8} · ❤️ ${fmt(c.likes)} · 👀 ${fmt(c.views)}</div>
  <div class="links"><a href="${c.post_url}" target="_blank" rel="noopener">查看原帖 ↗</a>${c.play_url?`<a href="${c.play_url}" target="_blank" rel="noopener">▶ 试玩 / 打开</a>`:""}</div></div></div>`).join("")}
 </script>
 </body></html>

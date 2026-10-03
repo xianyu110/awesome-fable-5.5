@@ -3,6 +3,9 @@
 # fields: id, handle, cat, posted(UTC), likes, views, bookmarks, title_zh, title_en, desc_zh, prompt, play
 C = [
 # ---------- motion 动画短片/动效 ----------
+("2105757136219504862","chetaslua","motion","2026-10-01T20:29Z",4236,643412,1725,
+ "超人连续变身：一镜到底穿越多种美术风格","Superman in one continuous shot across art styles",
+ "灰度首日最早爆火的作品之一：同一个超人在一条不间断的动画里不停切换画风，过渡自然，40 秒 64 万浏览。后来很多帖子都在转发这段视频。",None,None),
 ("2105825930799432073","cherry_mx_reds","motion","2026-10-02T01:03Z",5998,789020,2397,
  "只给一个“点”，它回了一段皮克斯味的小剧场","A dot turns into a Pixar-style side quest",
  "作者只要了一个点，模型自己加戏：角色、镜头、情绪起伏一应俱全。这是目前 Fable 5.5 传播最广的一条，也最能说明“少提示、多创意”。",None,None),
@@ -70,9 +73,6 @@ C = [
  "可交互的 3D Xbox 手柄：音效、开关机、充电、震动","Interactive 3D Xbox controller",
  "相比 5.1，模型主动补齐了按键音效、动画甚至“震动反馈”。作者公开的提示词里还有个小技巧：在 Claude Code 里起一个 10 分钟倒计时，要求它用满时间打磨。",
  "Generate a 3d of a Xbox Series X controller as nicely done as you can. With interaction buttons; sound effect when tap on the buttons; turn on/off the controller and even plug it charger. You've 10 MINUTES to finish this task…（节选）",None),
-("2105765253799903602","HarshithLucky3","3d","2026-10-01T21:02Z",146,5063,22,
- "“超级智能时代”概念场景","'Super Intelligence era' scene",
- "灰度首日的作品，用一段概念场景表达“超级智能时代”，光影和镜头运动是亮点。",None,None),
 ("2106061220629602360","alannnfx","3d","2026-10-02T16:38Z",28,1844,1,
  "布加迪 Chiron 超跑 3D 模型","Bugatti Chiron 3D model",
  "网页里的 3D 超跑，细节和可交互功能都比较完整；作者随后用同一提示词和 5.1 的旧结果做了对比（见对比评测）。",None,None),
@@ -139,9 +139,6 @@ C = [
 ("2106138602073641241","ishuagra02","other","2026-10-02T21:45Z",205,17334,133,
  "clawdhouse：Claude Code 桌面伙伴 mod 宣传片","clawdhouse Claude Code mod promo",
  "一个让 Claude 吉祥物陪你写代码的 mod（40 种情绪，测试通过会欢呼、你不动它会打盹），宣传视频由 Fable 5.5 制作，是“产品宣传片”玩法的好例子。",None,None),
-("2105833713724432401","leo114119","other","2026-10-02T01:34Z",202,34655,93,
- "Fable 5.5 给自己做的版本发布动画","Fable 5.5 makes its own launch animation",
- "作者的感受是：以后产品 Launch 宣传片可以不用真人出镜了，直接可用。",None,None),
 ("2105913312072577218","Saccc_c","other","2026-10-02T06:50Z",31,64330,27,
  "中文版 Tibo 测试：两个账号实测","Tibo test, tested on two accounts",
  "作者用两个 Claude 账号对照：被路由到新模型的账号会正确说出 Tibo 是谁。6.4 万次浏览，中文圈传播最广的自测教程。",
