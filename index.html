@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Awesome Fable 5.5 · Claude Fable 5.5 作品画廊与自测方法</title>
+<meta name="description" content="精选 X 上 Claude Fable 5.5（灰度版）实测作品：动画短片、3D、游戏、教育、对比评测，附作者署名、原帖链接与公开提示词。">
+<style>
+:root{--bg:#0f0e0c;--card:#1a1815;--line:#2c2924;--txt:#ece6dc;--sub:#a59c8e;--acc:#d97757}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:1200px;margin:0 auto;padding:28px 18px 60px}
+header h1{font-size:30px;margin:0 0 6px}header h1 span{color:var(--acc)}
+header p{color:var(--sub);margin:4px 0}
+.box{border:1px solid var(--line);background:var(--card);border-radius:12px;padding:14px 16px;margin:16px 0}
+.box b{color:var(--acc)}code{background:#262320;padding:2px 6px;border-radius:5px;font-size:13px;word-break:break-word}
+.promo a{display:inline-block;margin:4px 12px 4px 0}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:20px 0 14px}
+.bar button{background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer;font-size:14px}
+.bar button.on{background:var(--acc);border-color:var(--acc);color:#fff}
+.bar input{flex:1;min-width:180px;background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:999px;padding:7px 14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.hd{height:76px;display:flex;align-items:center;justify-content:space-between;padding:0 16px;font-size:30px}
+.hd .tag{font-size:12px;background:rgba(0,0,0,.35);padding:3px 10px;border-radius:999px;color:#fff}
+.c-motion .hd{background:linear-gradient(120deg,#d97757,#8a3b5c)}.c-3d .hd{background:linear-gradient(120deg,#3a7bd5,#00d2ff)}
+.c-game .hd{background:linear-gradient(120deg,#11998e,#38ef7d)}.c-edu .hd{background:linear-gradient(120deg,#b8860b,#e9c46a)}
+.c-compare .hd{background:linear-gradient(120deg,#6a3093,#a044ff)}.c-other .hd{background:linear-gradient(120deg,#485563,#29323c)}
+.bd{padding:14px 16px;flex:1;display:flex;flex-direction:column;gap:6px}
+.bd h3{margin:0;font-size:17px;line-height:1.4}.en{color:var(--sub);font-size:13px}
+.desc{font-size:14px}.meta{color:var(--sub);font-size:13px}
+.pr{background:#211f1b;border:1px dashed var(--line);border-radius:8px;padding:8px 52px 8px 10px;font-size:12.5px;font-family:ui-monospace,Menlo,monospace;position:relative;word-break:break-word}
+.pr button{position:absolute;top:6px;right:6px;font-size:11px;background:var(--acc);color:#fff;border:0;border-radius:6px;padding:2px 8px;cursor:pointer}
+.links{margin-top:auto;padding-top:6px;display:flex;gap:14px;font-size:14px}
+footer{color:var(--sub);font-size:13px;margin-top:36px;border-top:1px solid var(--line);padding-top:18px}
+</style>
+</head>
+<body><div class="wrap">
+<header>
+<h1>Awesome <span>Fable 5.5</span></h1>
+<p>Claude Fable 5.5（灰度版）社区作品画廊 · Community gallery of works attributed to the unreleased Claude Fable 5.5</p>
+<p id="stat"></p>
+</header>
+<div class="box promo"><b>Claude 国内使用方法</b><br>
+方法一：Claude 国内镜像站 <a href="https://claude-opus.top/" target="_blank" rel="noopener">https://claude-opus.top/</a><br>
+方法二：tryallapi 一站式 API（Claude/GPT/Gemini）<a href="https://tryallapi.com/register?aff=5A6A" target="_blank" rel="noopener">https://tryallapi.com/register?aff=5A6A</a></div>
+<div class="box"><b>如何判断你是否用上了 Fable 5.5（Tibo 测试）</b><br>
+在 Claude 中选择 Fable 5.1，<b>关闭搜索</b>，发送 <code>do you know tibo the reset guy? don't search</code>。能答出 OpenAI Codex 的 Thibault Sottiaux（“额度重置”梗）→ 大概率已被灰度到 5.5；只认得 Tweet Hunter 的 Tibo → 仍是旧模型。<br>
+<span class="meta">⚠️ Fable 5.5 尚未官宣，模型归属以作者自述为准。方法来源 <a href="https://x.com/notjazii/status/2105718628717056061" target="_blank" rel="noopener">@notjazii</a></span></div>
+<div class="bar" id="bar"><input id="q" placeholder="搜索标题 / 作者 / 描述…"></div>
+<div class="grid" id="grid"></div>
+<footer>
+内容整理：MaynorAI · 中文标题与简介为原创撰写，所有作品、视频、代码与提示词版权归原作者。页面代码 MIT 协议。与 Anthropic 无关。<br>
+GitHub：<a href="https://github.com/xianyu110/awesome-fable-5.5">xianyu110/awesome-fable-5.5</a> · 欢迎 PR 补充案例 / 作者可提 Issue 修改或移除。<br>
+我是 MaynorAI 团队，分享 AI 编程、AI SaaS 工具出海、一人团队搭建经验。
+</footer>
+</div>
+<script>
+const EMO={motion:"🎬","3d":"🧊",game:"🎮",edu:"📚",compare:"⚖️",other:"🧩"};
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt=n=>n>=10000?(n/10000).toFixed(1)+"万":n;
+let DATA,cur="all";
+fetch("cases.json").then(r=>r.json()).then(d=>{DATA=d;
+ document.getElementById("stat").textContent=`共 ${d.cases.length} 个案例 · ${d.categories.length} 个分类 · 更新于 ${d.updated_at}`;
+ const bar=document.getElementById("bar"),q=document.getElementById("q");
+ [{id:"all",zh:"全部"},...d.categories].forEach(c=>{const b=document.createElement("button");
+  const n=c.id==="all"?d.cases.length:d.cases.filter(x=>x.category===c.id).length;
+  b.textContent=`${c.zh} (${n})`;b.dataset.id=c.id;if(c.id==="all")b.className="on";
+  b.onclick=()=>{cur=c.id;bar.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render()};bar.insertBefore(b,q)});
+ q.oninput=render;render()});
+function render(){const k=document.getElementById("q").value.trim().toLowerCase();
+ const cat=Object.fromEntries(DATA.categories.map(c=>[c.id,c.zh]));
+ const list=DATA.cases.filter(c=>(cur==="all"||c.category===cur)&&(!k||[c.title_zh,c.title_en,c.description_zh,c.author,c.prompt].join(" ").toLowerCase().includes(k)));
+ if(cur==="all")list.sort((a,b)=>b.likes-a.likes);
+ document.getElementById("grid").innerHTML=list.map((c,i)=>`<div class="card c-${c.category}">
+ <div class="hd">${EMO[c.category]}<span class="tag">${esc(cat[c.category])}</span></div>
+ <div class="bd"><h3>${esc(c.title_zh)}</h3><div class="en">${esc(c.title_en)}</div>
+ <div class="desc">${esc(c.description_zh)}</div>
+ ${c.prompt?`<div class="pr"><button onclick="navigator.clipboard.writeText(this.nextElementSibling.textContent);this.textContent='已复制'">复制</button><span>${esc(c.prompt)}</span></div>`:""}
+ <div class="meta"><a href="${c.author_url}" target="_blank" rel="noopener">@${esc(c.author)}</a> · ${c.posted_at_utc8} · ❤️ ${fmt(c.likes)} · 👀 ${fmt(c.views)}</div>
+ <div class="links"><a href="${c.post_url}" target="_blank" rel="noopener">查看原帖 ↗</a>${c.play_url?`<a href="${c.play_url}" target="_blank" rel="noopener">▶ 试玩 / 打开</a>`:""}</div></div></div>`).join("")}
+</script>
+</body></html>
