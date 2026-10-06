@@ -4,7 +4,8 @@
 
 这里收集了 X 上创作者自称用 **Claude Fable 5.5**（目前仅灰度、尚未官宣）做出的动画短片、3D 场景、小游戏、科普视频和对比测试。去重筛选后共 **42 个作品**，分 6 类，其中 **15 个附有作者公开的提示词**，42 个带预览图。每条都署名并链接到原帖。
 
-**[🌐 打开在线画廊：按分类筛选、搜索、一键复制提示词 →](https://xianyu110.github.io/awesome-fable-5.5/)**
+> **[🌐 在 Skilloop 浏览全部案例（站内详情 / 提示词 / 同款 Skill）→](https://skilloop.dev/zh/ai-video/fable-5-5)**  
+> [GitHub Pages 存档画廊](https://xianyu110.github.io/awesome-fable-5.5/)
 
 <table>
   <tr>
@@ -42,7 +43,7 @@ do you know tibo the reset guy? don't search
 
 ## 动画短片 / 动效
 
-17 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=motion)
+17 个作品 · [在 Skilloop 浏览](https://skilloop.dev/zh/ai-video/fable-5-5?cat=motion)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -66,7 +67,7 @@ do you know tibo the reset guy? don't search
 
 ## 3D / Three.js
 
-5 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=3d)
+5 个作品 · [在 Skilloop 浏览](https://skilloop.dev/zh/ai-video/fable-5-5?cat=3d)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -78,7 +79,7 @@ do you know tibo the reset guy? don't search
 
 ## 游戏
 
-2 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=game)
+2 个作品 · [在 Skilloop 浏览](https://skilloop.dev/zh/ai-video/fable-5-5?cat=game)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -87,7 +88,7 @@ do you know tibo the reset guy? don't search
 
 ## 教育 / 历史
 
-5 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=edu)
+5 个作品 · [在 Skilloop 浏览](https://skilloop.dev/zh/ai-video/fable-5-5?cat=edu)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -99,7 +100,7 @@ do you know tibo the reset guy? don't search
 
 ## 对比评测
 
-6 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=compare)
+6 个作品 · [在 Skilloop 浏览](https://skilloop.dev/zh/ai-video/fable-5-5?cat=compare)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -112,7 +113,7 @@ do you know tibo the reset guy? don't search
 
 ## 其他（自测 / 宣传片 / 工具）
 
-7 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=other)
+7 个作品 · [在 Skilloop 浏览](https://skilloop.dev/zh/ai-video/fable-5-5?cat=other)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|

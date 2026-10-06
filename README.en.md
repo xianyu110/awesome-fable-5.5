@@ -4,7 +4,8 @@ English | [简体中文](README.md)
 
 A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **42 works**, 15 with publicly shared prompts. Every entry credits the creator and links to the original post.
 
-**[🌐 Open the gallery (filter, search, copy prompts) →](https://xianyu110.github.io/awesome-fable-5.5/)**
+> **[🌐 Browse all cases on Skilloop (detail pages / prompts / related skills) →](https://skilloop.dev/ai-video/fable-5-5)**  
+> [GitHub Pages archive gallery](https://xianyu110.github.io/awesome-fable-5.5/)
 
 <table>
   <tr>
