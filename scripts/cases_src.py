@@ -60,6 +60,12 @@ C = [
  "经典“鹈鹕骑自行车”SVG 基准","Pelican-on-a-bicycle SVG benchmark",
  "社区常用的 SVG 基准题，思考强度 High，API 跑了 4 分 6 秒、花费 2.61 美元，附可直接打开的 Claude Artifact。",
  "Create an HTML file containing a 2D animation of a pelican riding a bicycle drawn with SVG","https://claude.ai/artifact/697meWJLt1jck5iq14x9HH"),
+("2107262468502544435","AndrewOnXYZ","motion","2026-10-06T00:11Z",713,43341,288,
+ "经典火柴人互殴，动作顺到离谱","Classic stick fight, butter-smooth",
+ "只要一句“做一场经典火柴人对打”，Fable 5.5 就把节奏、打击感和镜头运动全补齐了，作者直呼动画顺滑到不可思议。",None,None),
+("2107459553369760024","blueemi99","motion","2026-10-06T13:14Z",800,35659,268,
+ "Brainrot 剪辑：自称只要 25 美元","Brainrot edit that cost $25",
+ "作者用 Fable 5.5 做了一支更疯的 brainrot 剪辑，并公开成本约 25 美元，适合看“模因剪辑”这条玩法能卷到什么程度。",None,None),
 # ---------- 3d ----------
 ("2105889407056109991","imjustnewatai","3d","2026-10-02T05:15Z",716,41124,212,
  "超复杂 3D 鲁布·戈德堡机械 + 1 分钟视频","3D Rube Goldberg machine + 1-min video",
@@ -80,6 +86,9 @@ C = [
  "一句话的 3D 航海场景：太阳在不同地平线","Ship at sea with moving sun",
  "提示词极简，作者称是自己见过最好的“海上帆船”demo，适合新手直接复制测试。",
  "Create a 3d ship sailing at sea with sun at different horizon",None),
+("2107086714820870617","JaydenDavisNC","3d","2026-10-05T12:33Z",3030,266009,1431,
+ "Blender 全流程点阵动画：音乐/建模/绑定","Blender dots full pipeline: music, models, rigs",
+ "不是官方宣传片：音乐、模型、动画和绑定全部由 Fable 5.5 在 Blender 里做完。灰度期传播最广的 3D 全流程样本之一。",None,None),
 # ---------- game ----------
 ("2106112279079199037","mindblown_ai","game","2026-10-02T20:01Z",651,79172,354,
  "Waymo 无人车冲下旧金山九曲花街（可试玩）","Waymo down Lombard Street (playable)",
@@ -87,6 +96,12 @@ C = [
 ("2106065029850091943","EMostaque","game","2026-10-02T16:53Z",155,15095,32,
  "21 个世界、21 个 Boss 的网页游戏（可试玩）","21 worlds, 21 bosses (playable)",
  "在 Claude 网页版、High 强度、少量提示下几个小时做完：21 个世界含 3D 版本，每个 Boss 机制不同，还有排行榜；宣传视频同样由 Claude 制作。",None,"https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9"),
+("2107180724399075488","anshuc","game","2026-10-05T18:46Z",5166,645096,3801,
+ "POKERMON：宝可梦 × Balatro 可玩页","POKERMON: Pokémon × Balatro (playable)",
+ "作者拿到灰度后一小时 one-shot：玩法、画面、音乐和宣传视频全包。可直接在线玩，是本批互动最高的游戏案例。",None,"https://pokermon.anshu.dev"),
+("2107108802440900621","blueemi99","game","2026-10-05T14:01Z",939,61550,386,
+ "Clawd 像素打怪：Artifact 可玩","Clawd pixel bug-boss (playable artifact)",
+ "扮演 Clawd 打虫子和 Boss 的像素小游戏，作者称一次生成就到独立游戏手感；可在 Claude Artifact 直接开玩。",None,"https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ"),
 # ---------- edu ----------
 ("2106081142143168580","imjustnewatai","edu","2026-10-02T17:57Z",4227,243975,2416,
  "一句话：人类全部进步史 + 未来 30 年，3 分钟原创配乐动画","All of human progress + 30 years ahead",
@@ -105,6 +120,9 @@ C = [
 ("2106204392588276065","imjustnewatai","edu","2026-10-03T02:07Z",22,2594,5,
  "动画解说：Altman 与 Amodei 的恩怨","Explainer: the Altman–Amodei feud",
  "把科技圈话题做成解说动画，适合想做知识类短视频的同学参考选题方式。",None,None),
+("2107615459822453187","imjustnewatai","edu","2026-10-06T23:34Z",201,20343,89,
+ "准黎曼假设证明：2 分钟 3D 讲解","Quasi-Riemann proof as a 2-min 3D explainer",
+ "把 OpenAI 近 200 页的准黎曼零点证明压成两分钟 3D 动画讲解；同作者证明系列里最适合先看的一条。",None,None),
 # ---------- compare ----------
 ("2105771088374288692","mesmerlord","compare","2026-10-01T21:25Z",422,39835,147,
  "盲测：Fable 5.5 vs Opus 5.5 各做一支 Fable 5.5 发布片","Blind test: launch trailers by Fable 5.5 vs Opus 5.5",
@@ -125,6 +143,9 @@ C = [
 ("2106323394350461031","alannnfx","compare","2026-10-03T10:00Z",26,1019,1,
  "同一提示词：Fable 5.1 vs 5.5 布加迪 Chiron","Same prompt: Fable 5.1 vs 5.5 (Bugatti)",
  "一两周前用 5.1 做过的布加迪，今天原样重跑，细节、功能和完整度都上了一个台阶。“老提示词重跑”是最简单的新旧对比法。",None,None),
+("2107497752217460896","notjazii","compare","2026-10-06T15:46Z",68,3464,5,
+ "Claude vs GPT：全代码对比视频","Claude vs GPT code-drawn comparison video",
+ "Fable 5.5 用代码画出的 Claude 与 GPT 对比短片，细节和收尾值得看完；High 推理强度。",None,None),
 # ---------- other ----------
 ("2105733677003292983","chetaslua","other","2026-10-01T18:56Z",975,637776,183,
  "灰度实锤：没让它做，它却主动把截图改成适合发 X 的样子","Unprompted screenshot edit for X + Tibo check",
@@ -149,4 +170,7 @@ C = [
 ("2106081118869156150","8Avalon8","other","2026-10-02T17:57Z",0,29,0,
  "ESP32 史莱姆桌宠宣传片：Blender 渲染 + 固件合成器配乐","ESP32 slime desk-pet promo",
  "桌宠会跟着 Claude Code 思考、干活、等你批准。宣传片里硬件由模型写脚本在 Blender 中建模渲染，配乐来自它移植的固件合成器（固件主要由 Opus 5.5 编写）。",None,None),
+("2107164574239604925","ishuagra02","other","2026-10-05T17:42Z",228,15533,55,
+ "Hello Claude 产品宣传动画","Hello Claude promo animation",
+ "一支干净的 Hello Claude 品牌宣传动画，全部由 Fable 5.5 制作，适合参考“产品上线片”模板。",None,None),
 ]

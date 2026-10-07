@@ -2,10 +2,9 @@
 
 English | [简体中文](README.md)
 
-A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **42 works**, 15 with publicly shared prompts. Every entry credits the creator and links to the original post.
+A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **50 works**, 15 with publicly shared prompts. Every entry credits the creator and links to the original post.
 
-> **[🌐 Browse all cases on Skilloop (detail pages / prompts / related skills) →](https://skilloop.dev/ai-video/fable-5-5)**  
-> [GitHub Pages archive gallery](https://xianyu110.github.io/awesome-fable-5.5/)
+**[🌐 Open the gallery (filter, search, copy prompts) →](https://xianyu110.github.io/awesome-fable-5.5/)**
 
 <table>
   <tr>
@@ -26,7 +25,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## Animation & Motion
 
-17 works
+19 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -36,7 +35,9 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/ishuagra02/status/2106045364868419727"><img src="https://upload.maynor1024.live/file/1791037705498_u_2106045364868419727.jpg" width="160" alt="《Claude 的一天》动画短片"></a> | [A Day in the Life of Claude](https://x.com/ishuagra02/status/2106045364868419727) | Fable 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 1:31 | — |
 | <a href="https://x.com/imjustnewatai/status/2105808539495354669"><img src="https://upload.maynor1024.live/file/1791037704557_u_2105808539495354669.jpg" width="160" alt="首批流出的 Fable 5.5 动画短片之一"></a> | [One of the first Fable 5.5 animated shorts](https://x.com/imjustnewatai/status/2105808539495354669) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:02 | — |
 | <a href="https://x.com/chetaslua/status/2105884276864782557"><img src="https://upload.maynor1024.live/file/1791037706553_u_2105884276864782557.jpg" width="160" alt="脑补“Hugging Face 事件”的 3D 短片"></a> | [Imagined 'Hugging Face incident' 3D short](https://x.com/chetaslua/status/2105884276864782557) | Fable 5.5 | [@chetaslua](https://x.com/chetaslua) | 3:41 | — |
+| <a href="https://x.com/blueemi99/status/2107459553369760024"><img src="https://pbs.twimg.com/amplify_video_thumb/2107191414140411904/img/Av_DHTnwHSqG5aD3.jpg" width="160" alt="Brainrot 剪辑：自称只要 25 美元"></a> | [Brainrot edit that cost $25](https://x.com/blueemi99/status/2107459553369760024) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:30 | — |
 | <a href="https://x.com/blueemi99/status/2106031355922387163"><img src="https://upload.maynor1024.live/file/1791037699614_u_2106031355922387163.jpg" width="160" alt="快节奏动效短片：比 Opus 5.5 更干净"></a> | [Fast motion piece, cleaner than Opus 5.5](https://x.com/blueemi99/status/2106031355922387163) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 0:15 | — |
+| <a href="https://x.com/AndrewOnXYZ/status/2107262468502544435"><img src="https://pbs.twimg.com/amplify_video_thumb/2107261834931650560/img/nyFrC9GJYEmTG6Ii.jpg" width="160" alt="经典火柴人互殴，动作顺到离谱"></a> | [Classic stick fight, butter-smooth](https://x.com/AndrewOnXYZ/status/2107262468502544435) | Fable 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 2:36 | — |
 | <a href="https://x.com/chetaslua/status/2105792187200147541"><img src="https://upload.maynor1024.live/file/1791037172811_c_2105792187200147541.jpg" width="160" alt="纯 JS 一次成型：漫威 / DC 英雄群像"></a> | [One-shot pure-JS Marvel & DC heroes](https://x.com/chetaslua/status/2105792187200147541) | Fable 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:47 | — |
 | <a href="https://x.com/rohit3a/status/2105786053412208835"><img src="https://upload.maynor1024.live/file/1791037174888_c_2105786053412208835.jpg" width="160" alt="“如果让你震撼我，你会做什么？”"></a> | ['If I asked you to blow my mind…'](https://x.com/rohit3a/status/2105786053412208835) | Fable 5.5 | [@rohit3a](https://x.com/rohit3a) | 0:53 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105786053412208835) |
 | <a href="https://x.com/Saccc_c/status/2105985484472377531"><img src="https://upload.maynor1024.live/file/1791037176947_c_2105985484472377531.jpg" width="160" alt="一句提示词直出的动效短片（中文圈爆款）"></a> | [One-prompt motion clip (viral in Chinese X)](https://x.com/Saccc_c/status/2105985484472377531) | Fable 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
@@ -50,10 +51,11 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## 3D & Three.js
 
-5 works
+6 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
+| <a href="https://x.com/JaydenDavisNC/status/2107086714820870617"><img src="https://pbs.twimg.com/amplify_video_thumb/2107086270514044928/img/zujM-sQh4dqJNAEW.jpg" width="160" alt="Blender 全流程点阵动画：音乐/建模/绑定"></a> | [Blender dots full pipeline: music, models, rigs](https://x.com/JaydenDavisNC/status/2107086714820870617) | Fable 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 0:17 | — |
 | <a href="https://x.com/imjustnewatai/status/2105889407056109991"><img src="https://upload.maynor1024.live/file/1791037183240_c_2105889407056109991.jpg" width="160" alt="超复杂 3D 鲁布·戈德堡机械 + 1 分钟视频"></a> | [3D Rube Goldberg machine + 1-min video](https://x.com/imjustnewatai/status/2105889407056109991) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:00 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105889407056109991) |
 | <a href="https://x.com/zAdrielsan/status/2105822678519001360"><img src="https://upload.maynor1024.live/file/1791037187087_c_2105822678519001360.jpg" width="160" alt="用 Bend2 写三体问题模拟，还附带形式化证明"></a> | [Three-body simulation in Bend2, with proofs](https://x.com/zAdrielsan/status/2105822678519001360) · [▶ Play](https://github.com/AdrielSantana/three-bodies) | Fable 5.5 | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105822678519001360) |
 | <a href="https://x.com/notjazii/status/2106050222828998967"><img src="https://upload.maynor1024.live/file/1791037189568_c_2106050222828998967.jpg" width="160" alt="可交互的 3D Xbox 手柄：音效、开关机、充电、震动"></a> | [Interactive 3D Xbox controller](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 0:34 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2106050222828998967) |
@@ -62,16 +64,18 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## Games
 
-2 works
+4 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
+| <a href="https://x.com/anshuc/status/2107180724399075488"><img src="https://pbs.twimg.com/amplify_video_thumb/2107180356981997569/img/c5WEnmn7Rk6KHPUe.jpg" width="160" alt="POKERMON：宝可梦 × Balatro 可玩页"></a> | [POKERMON: Pokémon × Balatro (playable)](https://x.com/anshuc/status/2107180724399075488) · [▶ Play](https://pokermon.anshu.dev) | Fable 5.5 | [@anshuc](https://x.com/anshuc) | 0:47 | — |
+| <a href="https://x.com/blueemi99/status/2107108802440900621"><img src="https://pbs.twimg.com/amplify_video_thumb/2107108711537745920/img/0e0hH7adfbKywwB8.jpg" width="160" alt="Clawd 像素打怪：Artifact 可玩"></a> | [Clawd pixel bug-boss (playable artifact)](https://x.com/blueemi99/status/2107108802440900621) · [▶ Play](https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 1:24 | — |
 | <a href="https://x.com/mindblown_ai/status/2106112279079199037"><img src="https://upload.maynor1024.live/file/1791037193156_c_2106112279079199037.jpg" width="160" alt="Waymo 无人车冲下旧金山九曲花街（可试玩）"></a> | [Waymo down Lombard Street (playable)](https://x.com/mindblown_ai/status/2106112279079199037) · [▶ Play](https://teleoperator.mindblown.ai) | Fable 5.5 | [@mindblown_ai](https://x.com/mindblown_ai) | 1:13 | — |
 | <a href="https://x.com/EMostaque/status/2106065029850091943"><img src="https://upload.maynor1024.live/file/1791037199682_c_2106065029850091943.jpg" width="160" alt="21 个世界、21 个 Boss 的网页游戏（可试玩）"></a> | [21 worlds, 21 bosses (playable)](https://x.com/EMostaque/status/2106065029850091943) · [▶ Play](https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9) | Fable 5.5 | [@EMostaque](https://x.com/EMostaque) | 0:59 | — |
 
 ## Education & History
 
-5 works
+6 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -79,11 +83,12 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/cherry_mx_reds/status/2106095190285144331"><img src="https://upload.maynor1024.live/file/1791037197113_c_2106095190285144331.jpg" width="160" alt="15 秒看完 4 万年艺术史，还附送一条猫猫支线"></a> | [40,000 years of art history in 15 seconds](https://x.com/cherry_mx_reds/status/2106095190285144331) | Fable 5.5 | [@cherry_mx_reds](https://x.com/cherry_mx_reds) | 0:15 | — |
 | <a href="https://x.com/ziwenxu_/status/2105983571848741045"><img src="https://upload.maynor1024.live/file/1791037206584_c_2105983571848741045.jpg" width="160" alt="从第一天到今天的人类文明史"></a> | [Civilization from day one to now](https://x.com/ziwenxu_/status/2105983571848741045) | Fable 5.5 | [@ziwenxu_](https://x.com/ziwenxu_) | 3:06 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105983571848741045) |
 | <a href="https://x.com/blueemi99/status/2106041578204655748"><img src="https://upload.maynor1024.live/file/1791037706955_u_2106041578204655748.jpg" width="160" alt="人类简史：从远古到当下"></a> | [Humanity, from ancient times to now](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |
+| <a href="https://x.com/imjustnewatai/status/2107615459822453187"><img src="https://pbs.twimg.com/amplify_video_thumb/2107615366415331328/img/zCeTbw6K4nJwi1rV.jpg" width="160" alt="准黎曼假设证明：2 分钟 3D 讲解"></a> | [Quasi-Riemann proof as a 2-min 3D explainer](https://x.com/imjustnewatai/status/2107615459822453187) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 2:13 | — |
 | <a href="https://x.com/imjustnewatai/status/2106204392588276065"><img src="https://upload.maynor1024.live/file/1791037716213_u_2106204392588276065.jpg" width="160" alt="动画解说：Altman 与 Amodei 的恩怨"></a> | [Explainer: the Altman–Amodei feud](https://x.com/imjustnewatai/status/2106204392588276065) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:41 | — |
 
 ## Comparisons
 
-6 works
+7 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -92,17 +97,19 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/badboyfoxy/status/2106073473361543348"><img src="https://upload.maynor1024.live/file/1791037205497_c_2106073473361543348.jpg" width="160" alt="Fable 5.5 vs Opus 5.5：设计品味差距"></a> | [Fable 5.5 vs Opus 5.5: design taste](https://x.com/badboyfoxy/status/2106073473361543348) | Fable 5.5 vs Opus 5.5 | [@badboyfoxy](https://x.com/badboyfoxy) | 0:35 | — |
 | <a href="https://x.com/vikktorrrre/status/2105955048018588084"><img src="https://upload.maynor1024.live/file/1791037211367_c_2105955048018588084.jpg" width="160" alt="体素日式庭院：Fable 5.5 vs Opus 5.5 Max"></a> | [Voxel Japanese garden: Fable 5.5 vs Opus 5.5](https://x.com/vikktorrrre/status/2105955048018588084) | Fable 5.5 vs Opus 5.5 | [@vikktorrrre](https://x.com/vikktorrrre) | 1:04 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2105955048018588084) |
 | <a href="https://x.com/notjazii/status/2106368606502334922"><img src="https://upload.maynor1024.live/file/1791037217317_c_2106368606502334922.jpg" width="160" alt="连测几天后的结论：比 5.1 大幅进步，但依旧很贵"></a> | [After days of testing: big step up, still pricey](https://x.com/notjazii/status/2106368606502334922) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 1:25 | — |
+| <a href="https://x.com/notjazii/status/2107497752217460896"><img src="https://pbs.twimg.com/amplify_video_thumb/2107497541386608640/img/A68to733RgDy5n1c.jpg" width="160" alt="Claude vs GPT：全代码对比视频"></a> | [Claude vs GPT code-drawn comparison video](https://x.com/notjazii/status/2107497752217460896) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 1:24 | — |
 | <a href="https://x.com/alannnfx/status/2106323394350461031"><img src="https://upload.maynor1024.live/file/1791037214674_c_2106323394350461031.jpg" width="160" alt="同一提示词：Fable 5.1 vs 5.5 布加迪 Chiron"></a> | [Same prompt: Fable 5.1 vs 5.5 (Bugatti)](https://x.com/alannnfx/status/2106323394350461031) | Fable 5.5 vs 5.1 | [@alannnfx](https://x.com/alannnfx) | 0:16 | — |
 
 ## Other (self-check, promos, tools)
 
-7 works
+8 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
 | <a href="https://x.com/chetaslua/status/2105733677003292983"><img src="https://upload.maynor1024.live/file/1791037211883_c_2105733677003292983.jpg" width="160" alt="灰度实锤：没让它做，它却主动把截图改成适合发 X 的样子"></a> | [Unprompted screenshot edit for X + Tibo check](https://x.com/chetaslua/status/2105733677003292983) | Fable 5.5 | [@chetaslua](https://x.com/chetaslua) | — | — |
 | <a href="https://x.com/notjazii/status/2105718628717056061"><img src="https://upload.maynor1024.live/file/1791037218854_c_2105718628717056061.jpg" width="160" alt="Tibo 测试的起点：一句话判断是否被路由"></a> | [Origin of the 'Tibo test'](https://x.com/notjazii/status/2105718628717056061) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | — | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105718628717056061) |
 | <a href="https://x.com/pankajkumar_dev/status/2106070404976849403"><img src="https://upload.maynor1024.live/file/1791037216998_c_2106070404976849403.jpg" width="160" alt="上手体验总结：动效与视频剪辑最强"></a> | [Hands-on impressions](https://x.com/pankajkumar_dev/status/2106070404976849403) | Fable 5.5 | [@pankajkumar_dev](https://x.com/pankajkumar_dev) | — | — |
+| <a href="https://x.com/ishuagra02/status/2107164574239604925"><img src="https://pbs.twimg.com/amplify_video_thumb/2107164545152131073/img/2RCGBr_PFX8wnqOf.jpg" width="160" alt="Hello Claude 产品宣传动画"></a> | [Hello Claude promo animation](https://x.com/ishuagra02/status/2107164574239604925) | Fable 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:58 | — |
 | <a href="https://x.com/ishuagra02/status/2106138602073641241"><img src="https://upload.maynor1024.live/file/1791037714145_u_2106138602073641241.jpg" width="160" alt="clawdhouse：Claude Code 桌面伙伴 mod 宣传片"></a> | [clawdhouse Claude Code mod promo](https://x.com/ishuagra02/status/2106138602073641241) | Fable 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:37 | — |
 | <a href="https://x.com/Saccc_c/status/2105913312072577218"><img src="https://upload.maynor1024.live/file/1791037224866_c_2105913312072577218.jpg" width="160" alt="中文版 Tibo 测试：两个账号实测"></a> | [Tibo test, tested on two accounts](https://x.com/Saccc_c/status/2105913312072577218) | Fable 5.5 | [@Saccc_c](https://x.com/Saccc_c) | — | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105913312072577218) |
 | <a href="https://x.com/voltwake/status/2105884775982485642"><img src="https://upload.maynor1024.live/file/1791037706923_u_2105884775982485642.jpg" width="160" alt="先过 Tibo 测试，再给自己的网站做上线宣传片"></a> | [Launch video for the author's site Curio 2.0](https://x.com/voltwake/status/2105884775982485642) | Fable 5.5 | [@voltwake](https://x.com/voltwake) | 1:03 | — |
