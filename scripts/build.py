@@ -19,10 +19,11 @@ MODEL = {
     "2105771088374288692": "Fable 5.5 vs Opus 5.5", "2106073473361543348": "Fable 5.5 vs Opus 5.5",
     "2105955048018588084": "Fable 5.5 vs Opus 5.5", "2105783511433318451": "Fable 5.5 vs GPT-6.1",
     "2106323394350461031": "Fable 5.5 vs 5.1", "2106081118869156150": "Fable 5.5（固件 Opus 5.5）",
+    "2107803303832936679": "Fable 5.5 + Opus 5.5",
 }
 FEATURED = ["2105825930799432073", "2106081142143168580", "2105757136219504862", "2106095190285144331",
             "2106045364868419727", "2105884276864782557", "2105889407056109991", "2106112279079199037"]
-CHECKED = "2026-10-07 10:30 (UTC+8)"
+CHECKED = "2026-10-08 11:26 (UTC+8)"
 covers = json.load(open(os.path.join(HERE, "covers.json")))
 gifs = json.load(open(os.path.join(HERE, "gifs.json")))
 durs = json.load(open(os.path.join(HERE, "durations.json")))

@@ -2,7 +2,7 @@
 
 [English](README.en.md) | 简体中文
 
-这里收集了 X 上创作者自称用 **Claude Fable 5.5**（目前仅灰度、尚未官宣）做出的动画短片、3D 场景、小游戏、科普视频和对比测试。去重筛选后共 **50 个作品**，分 6 类，其中 **15 个附有作者公开的提示词**，50 个带预览图。每条都署名并链接到原帖。
+这里收集了 X 上创作者自称用 **Claude Fable 5.5**（目前仅灰度、尚未官宣）做出的动画短片、3D 场景、小游戏、科普视频和对比测试。去重筛选后共 **54 个作品**，分 6 类，其中 **16 个附有作者公开的提示词**，54 个带预览图。每条都署名并链接到原帖。
 
 **[🌐 打开在线画廊：按分类筛选、搜索、一键复制提示词 →](https://xianyu110.github.io/awesome-fable-5.5/)**
 
@@ -28,7 +28,7 @@
 - 只收**创作者本人发布的原帖**；搬运、转发别人视频的帖子不收，发现后改链到原作者。
 - 作者在帖子里**明确写了是 Fable 5.5 做的**。Fable 5.5 截至 2026 年 10 月初**还没有正式发布**，大家拿到的是 Fable 5.1 被静默路由后的版本，所以模型归属**完全以作者的说法为准**，本仓库没有逐条复现。
 - 提示词只引用**公开可查**的内容：原帖正文或作者本人的回复，并保留英文原文；找不到出处的留空。
-- 同一作者的相似作品只留代表作；按点赞数排序，互动数为整理时的快照（2026-10-07 10:30 (UTC+8)）。
+- 同一作者的相似作品只留代表作；按点赞数排序，互动数为整理时的快照（2026-10-08 11:26 (UTC+8)）。
 
 ## 如何判断你是否用上了 Fable 5.5
 
@@ -42,7 +42,7 @@ do you know tibo the reset guy? don't search
 
 ## 动画短片 / 动效
 
-19 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=motion)
+20 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=motion)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@ do you know tibo the reset guy? don't search
 | <a href="https://x.com/ishuagra02/status/2106000055706784118"><img src="https://upload.maynor1024.live/file/1791037175887_c_2106000055706784118.jpg" width="160" alt="水彩风秋日动画"></a> | [水彩风秋日动画](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | <a href="https://x.com/AndrewOnXYZ/status/2105440970992963944"><img src="https://upload.maynor1024.live/file/1791037695313_u_2105440970992963944.jpg" width="160" alt="节拍动画《A warning from us》，结局有点诡异"></a> | [节拍动画《A warning from us》，结局有点诡异](https://x.com/AndrewOnXYZ/status/2105440970992963944) | Fable 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |
 | <a href="https://x.com/ishuagra02/status/2105779174921359470"><img src="https://upload.maynor1024.live/file/1791037702199_u_2105779174921359470.jpg" width="160" alt="Nintendo Switch SVG 动画：1 分 39 秒，$1.34"></a> | [Nintendo Switch SVG 动画：1 分 39 秒，$1.34](https://x.com/ishuagra02/status/2105779174921359470) | Fable 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:05 | [完整提示词](https://xianyu110.github.io/awesome-fable-5.5/#2105779174921359470) |
+| <a href="https://x.com/notdwd/status/2107816799840690589"><img src="https://pbs.twimg.com/amplify_video_thumb/2107804568998567936/img/A5uhWWR9q-uB7qje.jpg" width="160" alt="1 小时内复刻高质量动效设计（附完整提示词）"></a> | [1 小时内复刻高质量动效设计（附完整提示词）](https://x.com/notdwd/status/2107816799840690589) | Fable 5.5 | [@notdwd](https://x.com/notdwd) | 0:20 | [完整提示词](https://xianyu110.github.io/awesome-fable-5.5/#2107816799840690589) |
 | <a href="https://x.com/atomtanstudio/status/2106135196483608745"><img src="https://upload.maynor1024.live/file/1791037707238_u_2106135196483608745.jpg" width="160" alt="动态歌词 MV：把歌喂给它，让它交“简历作品集”"></a> | [动态歌词 MV：把歌喂给它，让它交“简历作品集”](https://x.com/atomtanstudio/status/2106135196483608745) | Fable 5.5 | [@atomtanstudio](https://x.com/atomtanstudio) | 4:39 | [完整提示词](https://xianyu110.github.io/awesome-fable-5.5/#2106135196483608745) |
 | <a href="https://x.com/AnonymerNutze12/status/2105740440385499295"><img src="https://upload.maynor1024.live/file/1791037572859_c_pelican.jpg" width="160" alt="经典“鹈鹕骑自行车”SVG 基准"></a> | [经典“鹈鹕骑自行车”SVG 基准](https://x.com/AnonymerNutze12/status/2105740440385499295) · [▶ 试玩](https://claude.ai/artifact/697meWJLt1jck5iq14x9HH) | Fable 5.5 | [@AnonymerNutze12](https://x.com/AnonymerNutze12) | — | [一句话指令](https://xianyu110.github.io/awesome-fable-5.5/#2105740440385499295) |
 
@@ -81,18 +82,19 @@ do you know tibo the reset guy? don't search
 
 ## 游戏
 
-4 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=game)
+5 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=game)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
 | <a href="https://x.com/anshuc/status/2107180724399075488"><img src="https://pbs.twimg.com/amplify_video_thumb/2107180356981997569/img/c5WEnmn7Rk6KHPUe.jpg" width="160" alt="POKERMON：宝可梦 × Balatro 可玩页"></a> | [POKERMON：宝可梦 × Balatro 可玩页](https://x.com/anshuc/status/2107180724399075488) · [▶ 试玩](https://pokermon.anshu.dev) | Fable 5.5 | [@anshuc](https://x.com/anshuc) | 0:47 | — |
 | <a href="https://x.com/blueemi99/status/2107108802440900621"><img src="https://pbs.twimg.com/amplify_video_thumb/2107108711537745920/img/0e0hH7adfbKywwB8.jpg" width="160" alt="Clawd 像素打怪：Artifact 可玩"></a> | [Clawd 像素打怪：Artifact 可玩](https://x.com/blueemi99/status/2107108802440900621) · [▶ 试玩](https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 1:24 | — |
 | <a href="https://x.com/mindblown_ai/status/2106112279079199037"><img src="https://upload.maynor1024.live/file/1791037193156_c_2106112279079199037.jpg" width="160" alt="Waymo 无人车冲下旧金山九曲花街（可试玩）"></a> | [Waymo 无人车冲下旧金山九曲花街（可试玩）](https://x.com/mindblown_ai/status/2106112279079199037) · [▶ 试玩](https://teleoperator.mindblown.ai) | Fable 5.5 | [@mindblown_ai](https://x.com/mindblown_ai) | 1:13 | — |
+| <a href="https://x.com/oalanicolas/status/2107803303832936679"><img src="https://pbs.twimg.com/amplify_video_thumb/2107801963777687552/img/EPmn9zUSh83dTVpQ.jpg" width="160" alt="浏览器里跑的“GTA6”（Fable 5.5 + Opus 5.5）"></a> | [浏览器里跑的“GTA6”（Fable 5.5 + Opus 5.5）](https://x.com/oalanicolas/status/2107803303832936679) | Fable 5.5 + Opus 5.5 | [@oalanicolas](https://x.com/oalanicolas) | 1:50 | — |
 | <a href="https://x.com/EMostaque/status/2106065029850091943"><img src="https://upload.maynor1024.live/file/1791037199682_c_2106065029850091943.jpg" width="160" alt="21 个世界、21 个 Boss 的网页游戏（可试玩）"></a> | [21 个世界、21 个 Boss 的网页游戏（可试玩）](https://x.com/EMostaque/status/2106065029850091943) · [▶ 试玩](https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9) | Fable 5.5 | [@EMostaque](https://x.com/EMostaque) | 0:59 | — |
 
 ## 教育 / 历史
 
-6 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=edu)
+8 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=edu)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -101,6 +103,8 @@ do you know tibo the reset guy? don't search
 | <a href="https://x.com/ziwenxu_/status/2105983571848741045"><img src="https://upload.maynor1024.live/file/1791037206584_c_2105983571848741045.jpg" width="160" alt="从第一天到今天的人类文明史"></a> | [从第一天到今天的人类文明史](https://x.com/ziwenxu_/status/2105983571848741045) | Fable 5.5 | [@ziwenxu_](https://x.com/ziwenxu_) | 3:06 | [一句话指令](https://xianyu110.github.io/awesome-fable-5.5/#2105983571848741045) |
 | <a href="https://x.com/blueemi99/status/2106041578204655748"><img src="https://upload.maynor1024.live/file/1791037706955_u_2106041578204655748.jpg" width="160" alt="人类简史：从远古到当下"></a> | [人类简史：从远古到当下](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |
 | <a href="https://x.com/imjustnewatai/status/2107615459822453187"><img src="https://pbs.twimg.com/amplify_video_thumb/2107615366415331328/img/zCeTbw6K4nJwi1rV.jpg" width="160" alt="准黎曼假设证明：2 分钟 3D 讲解"></a> | [准黎曼假设证明：2 分钟 3D 讲解](https://x.com/imjustnewatai/status/2107615459822453187) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 2:13 | — |
+| <a href="https://x.com/oalanicolas/status/2107958931230241037"><img src="https://pbs.twimg.com/amplify_video_thumb/2107956735025500160/img/-P_YJ25lEZwgL6z1.jpg" width="160" alt="涂鸦版人类史：16 个时代，每段换画风和配乐"></a> | [涂鸦版人类史：16 个时代，每段换画风和配乐](https://x.com/oalanicolas/status/2107958931230241037) | Fable 5.5 | [@oalanicolas](https://x.com/oalanicolas) | 1:29 | — |
+| <a href="https://x.com/imjustnewatai/status/2107970825542345211"><img src="https://pbs.twimg.com/amplify_video_thumb/2107970490560049153/img/j-Sb8OPW9MZpglNo.jpg" width="160" alt="OpenAI 23 页 π 证明：2 分钟配音 3D 讲解"></a> | [OpenAI 23 页 π 证明：2 分钟配音 3D 讲解](https://x.com/imjustnewatai/status/2107970825542345211) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 2:14 | — |
 | <a href="https://x.com/imjustnewatai/status/2106204392588276065"><img src="https://upload.maynor1024.live/file/1791037716213_u_2106204392588276065.jpg" width="160" alt="动画解说：Altman 与 Amodei 的恩怨"></a> | [动画解说：Altman 与 Amodei 的恩怨](https://x.com/imjustnewatai/status/2106204392588276065) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:41 | — |
 
 ## 对比评测
