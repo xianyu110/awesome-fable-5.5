@@ -1,6 +1,6 @@
 {
  "name": "Awesome Fable 5.5",
- "updated_at": "2026-10-08 11:26 (UTC+8)",
+ "updated_at": "2026-10-09 11:47 (UTC+8)",
  "note_zh": "Fable 5.5 尚未官宣；模型归属以各作者自述为准。互动数为整理时数值。作品版权归原作者。",
  "categories": [
   {
@@ -588,6 +588,27 @@
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2105783868699906505"
   },
   {
+   "id": "2108194732744888801",
+   "category": "3d",
+   "model": "Fable 5.5",
+   "title_zh": "密封热带雨林：Three.js 微型生态箱",
+   "title_en": "Sealed rainforest terrarium in Three.js",
+   "description_zh": "用 Fable 5.5 做的密封山地雨林 Three.js 场景（约 14 小时），自称自维持封闭生态。在线 Demo：silva-minima.vercel.app；帖子未附提示词。",
+   "author": "RobinDenmark",
+   "author_url": "https://x.com/RobinDenmark",
+   "post_url": "https://x.com/RobinDenmark/status/2108194732744888801",
+   "posted_at_utc8": "2026-10-08 21:56",
+   "duration_seconds": 42,
+   "likes": 0,
+   "views": 8,
+   "bookmarks": 0,
+   "prompt": null,
+   "play_url": "https://silva-minima.vercel.app/",
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2108194611084591104/img/XAybfvMKXPxkPUX2.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2108194732744888801"
+  },
+  {
    "id": "2107180724399075488",
    "category": "game",
    "model": "Fable 5.5",
@@ -670,6 +691,27 @@
    "cover": "https://pbs.twimg.com/amplify_video_thumb/2107801963777687552/img/EPmn9zUSh83dTVpQ.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2107803303832936679"
+  },
+  {
+   "id": "2108221060655055242",
+   "category": "game",
+   "model": "Fable 5.5",
+   "title_zh": "一小时 oneshot 的 Minecraft 克隆（UI/生物/生物群系齐全）",
+   "title_en": "Minecraft clone oneshot: UI, mobs, biomes & more",
+   "description_zh": "作者称 Fable 5.5 不到一小时 oneshot 出一套 Minecraft 克隆：UI、画面、怪物、生物群系、洞穴和物品都做了，并说比以前玩过的人工 Minecraft 克隆还完整。可在 Claude Artifact 试玩；帖子未附提示词。",
+   "author": "blueemi99",
+   "author_url": "https://x.com/blueemi99",
+   "post_url": "https://x.com/blueemi99/status/2108221060655055242",
+   "posted_at_utc8": "2026-10-08 23:40",
+   "duration_seconds": 89,
+   "likes": 401,
+   "views": 28078,
+   "bookmarks": 89,
+   "prompt": null,
+   "play_url": "https://claude.ai/artifact/QJQU3kDzXpMG1CBFCZceZ3",
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2108220392938545152/img/VLeytYV7Zz9SakIu.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2108221060655055242"
   },
   {
    "id": "2106065029850091943",

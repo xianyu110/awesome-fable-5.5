@@ -92,6 +92,9 @@ C = [
 ("2107086714820870617","JaydenDavisNC","3d","2026-10-05T12:33Z",3030,266009,1431,
  "Blender 全流程点阵动画：音乐/建模/绑定","Blender dots full pipeline: music, models, rigs",
  "不是官方宣传片：音乐、模型、动画和绑定全部由 Fable 5.5 在 Blender 里做完。灰度期传播最广的 3D 全流程样本之一。",None,None),
+("2108194732744888801","RobinDenmark","3d","2026-10-08T13:56Z",0,8,0,
+ "密封热带雨林：Three.js 微型生态箱","Sealed rainforest terrarium in Three.js",
+ "用 Fable 5.5 做的密封山地雨林 Three.js 场景（约 14 小时），自称自维持封闭生态。在线 Demo：silva-minima.vercel.app；帖子未附提示词。",None,"https://silva-minima.vercel.app/"),
 # ---------- game ----------
 ("2106112279079199037","mindblown_ai","game","2026-10-02T20:01Z",651,79172,354,
  "Waymo 无人车冲下旧金山九曲花街（可试玩）","Waymo down Lombard Street (playable)",
@@ -108,6 +111,9 @@ C = [
 ("2107803303832936679","oalanicolas","game","2026-10-07T12:00Z",633,52136,246,
  "浏览器里跑的“GTA6”（Fable 5.5 + Opus 5.5）","Browser-playable “GTA6” (Fable 5.5 + Opus 5.5)",
  "作者戏称抢在 Rockstar 之前做出了自己的 GTA6，整个游戏 100% 在浏览器里运行。注意：这是 Fable 5.5 与 Opus 5.5 两个模型配合完成的作品，不是 Fable 单独出品；帖子未附公开试玩链接和提示词。",None,None),
+("2108221060655055242","blueemi99","game","2026-10-08T15:40Z",401,28078,89,
+ "一小时 oneshot 的 Minecraft 克隆（UI/生物/生物群系齐全）","Minecraft clone oneshot: UI, mobs, biomes & more",
+ "作者称 Fable 5.5 不到一小时 oneshot 出一套 Minecraft 克隆：UI、画面、怪物、生物群系、洞穴和物品都做了，并说比以前玩过的人工 Minecraft 克隆还完整。可在 Claude Artifact 试玩；帖子未附提示词。",None,"https://claude.ai/artifact/QJQU3kDzXpMG1CBFCZceZ3"),
 # ---------- edu ----------
 ("2106081142143168580","imjustnewatai","edu","2026-10-02T17:57Z",4227,243975,2416,
  "一句话：人类全部进步史 + 未来 30 年，3 分钟原创配乐动画","All of human progress + 30 years ahead",

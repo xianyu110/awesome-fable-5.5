@@ -23,7 +23,7 @@ MODEL = {
 }
 FEATURED = ["2105825930799432073", "2106081142143168580", "2105757136219504862", "2106095190285144331",
             "2106045364868419727", "2105884276864782557", "2105889407056109991", "2106112279079199037"]
-CHECKED = "2026-10-08 11:26 (UTC+8)"
+CHECKED = "2026-10-09 11:47 (UTC+8)"
 covers = json.load(open(os.path.join(HERE, "covers.json")))
 gifs = json.load(open(os.path.join(HERE, "gifs.json")))
 durs = json.load(open(os.path.join(HERE, "durations.json")))

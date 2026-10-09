@@ -2,7 +2,7 @@
 
 English | [简体中文](README.md)
 
-A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **54 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
+A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **56 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
 
 **[🌐 Open the gallery (filter, search, copy prompts) →](https://xianyu110.github.io/awesome-fable-5.5/)**
 
@@ -52,7 +52,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## 3D & Three.js
 
-6 works
+7 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -62,10 +62,11 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/notjazii/status/2106050222828998967"><img src="https://upload.maynor1024.live/file/1791037189568_c_2106050222828998967.jpg" width="160" alt="可交互的 3D Xbox 手柄：音效、开关机、充电、震动"></a> | [Interactive 3D Xbox controller](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 0:34 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2106050222828998967) |
 | <a href="https://x.com/alannnfx/status/2106061220629602360"><img src="https://upload.maynor1024.live/file/1791037192549_c_2106061220629602360.jpg" width="160" alt="布加迪 Chiron 超跑 3D 模型"></a> | [Bugatti Chiron 3D model](https://x.com/alannnfx/status/2106061220629602360) | Fable 5.5 | [@alannnfx](https://x.com/alannnfx) | — | — |
 | <a href="https://x.com/popat_kunj/status/2105783868699906505"><img src="https://upload.maynor1024.live/file/1791037194928_c_2105783868699906505.jpg" width="160" alt="一句话的 3D 航海场景：太阳在不同地平线"></a> | [Ship at sea with moving sun](https://x.com/popat_kunj/status/2105783868699906505) | Fable 5.5 | [@popat_kunj](https://x.com/popat_kunj) | — | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105783868699906505) |
+| <a href="https://x.com/RobinDenmark/status/2108194732744888801"><img src="https://pbs.twimg.com/amplify_video_thumb/2108194611084591104/img/XAybfvMKXPxkPUX2.jpg" width="160" alt="密封热带雨林：Three.js 微型生态箱"></a> | [Sealed rainforest terrarium in Three.js](https://x.com/RobinDenmark/status/2108194732744888801) · [▶ Play](https://silva-minima.vercel.app/) | Fable 5.5 | [@RobinDenmark](https://x.com/RobinDenmark) | 0:42 | — |
 
 ## Games
 
-5 works
+6 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -73,6 +74,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/blueemi99/status/2107108802440900621"><img src="https://pbs.twimg.com/amplify_video_thumb/2107108711537745920/img/0e0hH7adfbKywwB8.jpg" width="160" alt="Clawd 像素打怪：Artifact 可玩"></a> | [Clawd pixel bug-boss (playable artifact)](https://x.com/blueemi99/status/2107108802440900621) · [▶ Play](https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 1:24 | — |
 | <a href="https://x.com/mindblown_ai/status/2106112279079199037"><img src="https://upload.maynor1024.live/file/1791037193156_c_2106112279079199037.jpg" width="160" alt="Waymo 无人车冲下旧金山九曲花街（可试玩）"></a> | [Waymo down Lombard Street (playable)](https://x.com/mindblown_ai/status/2106112279079199037) · [▶ Play](https://teleoperator.mindblown.ai) | Fable 5.5 | [@mindblown_ai](https://x.com/mindblown_ai) | 1:13 | — |
 | <a href="https://x.com/oalanicolas/status/2107803303832936679"><img src="https://pbs.twimg.com/amplify_video_thumb/2107801963777687552/img/EPmn9zUSh83dTVpQ.jpg" width="160" alt="浏览器里跑的“GTA6”（Fable 5.5 + Opus 5.5）"></a> | [Browser-playable “GTA6” (Fable 5.5 + Opus 5.5)](https://x.com/oalanicolas/status/2107803303832936679) | Fable 5.5 + Opus 5.5 | [@oalanicolas](https://x.com/oalanicolas) | 1:50 | — |
+| <a href="https://x.com/blueemi99/status/2108221060655055242"><img src="https://pbs.twimg.com/amplify_video_thumb/2108220392938545152/img/VLeytYV7Zz9SakIu.jpg" width="160" alt="一小时 oneshot 的 Minecraft 克隆（UI/生物/生物群系齐全）"></a> | [Minecraft clone oneshot: UI, mobs, biomes & more](https://x.com/blueemi99/status/2108221060655055242) · [▶ Play](https://claude.ai/artifact/QJQU3kDzXpMG1CBFCZceZ3) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 1:29 | — |
 | <a href="https://x.com/EMostaque/status/2106065029850091943"><img src="https://upload.maynor1024.live/file/1791037199682_c_2106065029850091943.jpg" width="160" alt="21 个世界、21 个 Boss 的网页游戏（可试玩）"></a> | [21 worlds, 21 bosses (playable)](https://x.com/EMostaque/status/2106065029850091943) · [▶ Play](https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9) | Fable 5.5 | [@EMostaque](https://x.com/EMostaque) | 0:59 | — |
 
 ## Education & History
