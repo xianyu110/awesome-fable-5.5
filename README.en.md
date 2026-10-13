@@ -2,7 +2,7 @@
 
 English | [简体中文](README.md)
 
-A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **56 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
+A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **59 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
 
 **[🌐 Open the gallery (filter, search, copy prompts) →](https://xianyu110.github.io/awesome-fable-5.5/)**
 
@@ -25,7 +25,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## Animation & Motion
 
-20 works
+21 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/AndrewOnXYZ/status/2107262468502544435"><img src="https://pbs.twimg.com/amplify_video_thumb/2107261834931650560/img/nyFrC9GJYEmTG6Ii.jpg" width="160" alt="经典火柴人互殴，动作顺到离谱"></a> | [Classic stick fight, butter-smooth](https://x.com/AndrewOnXYZ/status/2107262468502544435) | Fable 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 2:36 | — |
 | <a href="https://x.com/chetaslua/status/2105792187200147541"><img src="https://upload.maynor1024.live/file/1791037172811_c_2105792187200147541.jpg" width="160" alt="纯 JS 一次成型：漫威 / DC 英雄群像"></a> | [One-shot pure-JS Marvel & DC heroes](https://x.com/chetaslua/status/2105792187200147541) | Fable 5.5 | [@chetaslua](https://x.com/chetaslua) | 0:47 | — |
 | <a href="https://x.com/rohit3a/status/2105786053412208835"><img src="https://upload.maynor1024.live/file/1791037174888_c_2105786053412208835.jpg" width="160" alt="“如果让你震撼我，你会做什么？”"></a> | ['If I asked you to blow my mind…'](https://x.com/rohit3a/status/2105786053412208835) | Fable 5.5 | [@rohit3a](https://x.com/rohit3a) | 0:53 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105786053412208835) |
+| <a href="https://x.com/ChrisGPT/status/2109570757579649086"><img src="https://pbs.twimg.com/amplify_video_thumb/2109570463886151680/img/z20ErD5AveU0iqrF.jpg" width="160" alt="《Hosanna》宗教风音乐剧 MV"></a> | [Hosanna religious musical music video](https://x.com/ChrisGPT/status/2109570757579649086) | Fable 5.5 | [@ChrisGPT](https://x.com/ChrisGPT) | 1:16 | — |
 | <a href="https://x.com/Saccc_c/status/2105985484472377531"><img src="https://upload.maynor1024.live/file/1791037176947_c_2105985484472377531.jpg" width="160" alt="一句提示词直出的动效短片（中文圈爆款）"></a> | [One-prompt motion clip (viral in Chinese X)](https://x.com/Saccc_c/status/2105985484472377531) | Fable 5.5 | [@Saccc_c](https://x.com/Saccc_c) | 0:15 | — |
 | <a href="https://x.com/chetaslua/status/2106076940558082297"><img src="https://upload.maynor1024.live/file/1791037181007_c_2106076940558082297.jpg" width="160" alt="2010→2026 年度爆梗编年史，每年一种画风和配乐"></a> | [Every viral meme 2010–2026, one style per year](https://x.com/chetaslua/status/2106076940558082297) | Fable 5.5 | [@chetaslua](https://x.com/chetaslua) | 1:38 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2106076940558082297) |
 | <a href="https://x.com/AndrewOnXYZ/status/2106097745098395712"><img src="https://upload.maynor1024.live/file/1791037707404_u_2106097745098395712.jpg" width="160" alt="“I AM AGI”：同一提示词跑出的另类 MV"></a> | ['I AM AGI' — a very different music video](https://x.com/AndrewOnXYZ/status/2106097745098395712) | Fable 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |
@@ -52,7 +53,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## 3D & Three.js
 
-7 works
+8 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -61,6 +62,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/zAdrielsan/status/2105822678519001360"><img src="https://upload.maynor1024.live/file/1791037187087_c_2105822678519001360.jpg" width="160" alt="用 Bend2 写三体问题模拟，还附带形式化证明"></a> | [Three-body simulation in Bend2, with proofs](https://x.com/zAdrielsan/status/2105822678519001360) · [▶ Play](https://github.com/AdrielSantana/three-bodies) | Fable 5.5 | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105822678519001360) |
 | <a href="https://x.com/notjazii/status/2106050222828998967"><img src="https://upload.maynor1024.live/file/1791037189568_c_2106050222828998967.jpg" width="160" alt="可交互的 3D Xbox 手柄：音效、开关机、充电、震动"></a> | [Interactive 3D Xbox controller](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 0:34 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2106050222828998967) |
 | <a href="https://x.com/alannnfx/status/2106061220629602360"><img src="https://upload.maynor1024.live/file/1791037192549_c_2106061220629602360.jpg" width="160" alt="布加迪 Chiron 超跑 3D 模型"></a> | [Bugatti Chiron 3D model](https://x.com/alannnfx/status/2106061220629602360) | Fable 5.5 | [@alannnfx](https://x.com/alannnfx) | — | — |
+| <a href="https://x.com/Airo_07/status/2109658160269344801"><img src="https://pbs.twimg.com/amplify_video_thumb/2109658105722368000/img/-UxYEPVerp6iOLUP.jpg" width="160" alt="纯代码电影感 3D 世界：山体侵蚀云雾光影"></a> | [Cinematic 3D world entirely from code](https://x.com/Airo_07/status/2109658160269344801) | Fable 5.5 | [@Airo_07](https://x.com/Airo_07) | 0:43 | — |
 | <a href="https://x.com/popat_kunj/status/2105783868699906505"><img src="https://upload.maynor1024.live/file/1791037194928_c_2105783868699906505.jpg" width="160" alt="一句话的 3D 航海场景：太阳在不同地平线"></a> | [Ship at sea with moving sun](https://x.com/popat_kunj/status/2105783868699906505) | Fable 5.5 | [@popat_kunj](https://x.com/popat_kunj) | — | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105783868699906505) |
 | <a href="https://x.com/RobinDenmark/status/2108194732744888801"><img src="https://pbs.twimg.com/amplify_video_thumb/2108194611084591104/img/XAybfvMKXPxkPUX2.jpg" width="160" alt="密封热带雨林：Three.js 微型生态箱"></a> | [Sealed rainforest terrarium in Three.js](https://x.com/RobinDenmark/status/2108194732744888801) · [▶ Play](https://silva-minima.vercel.app/) | Fable 5.5 | [@RobinDenmark](https://x.com/RobinDenmark) | 0:42 | — |
 
@@ -79,7 +81,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## Education & History
 
-8 works
+9 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -89,6 +91,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/blueemi99/status/2106041578204655748"><img src="https://upload.maynor1024.live/file/1791037706955_u_2106041578204655748.jpg" width="160" alt="人类简史：从远古到当下"></a> | [Humanity, from ancient times to now](https://x.com/blueemi99/status/2106041578204655748) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 2:00 | — |
 | <a href="https://x.com/imjustnewatai/status/2107615459822453187"><img src="https://pbs.twimg.com/amplify_video_thumb/2107615366415331328/img/zCeTbw6K4nJwi1rV.jpg" width="160" alt="准黎曼假设证明：2 分钟 3D 讲解"></a> | [Quasi-Riemann proof as a 2-min 3D explainer](https://x.com/imjustnewatai/status/2107615459822453187) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 2:13 | — |
 | <a href="https://x.com/oalanicolas/status/2107958931230241037"><img src="https://pbs.twimg.com/amplify_video_thumb/2107956735025500160/img/-P_YJ25lEZwgL6z1.jpg" width="160" alt="涂鸦版人类史：16 个时代，每段换画风和配乐"></a> | [Human history in doodles: 16 eras, new style & music each](https://x.com/oalanicolas/status/2107958931230241037) | Fable 5.5 | [@oalanicolas](https://x.com/oalanicolas) | 1:29 | — |
+| <a href="https://x.com/imjustnewatai/status/2109811005395996875"><img src="https://pbs.twimg.com/amplify_video_thumb/2109810864337334272/img/MYEUtUqGQzDAmVk8.jpg" width="160" alt="千禧年奖草莓证明：从 strawberry 到 Millennium Prize"></a> | [Millennium Prize strawberry proof explainer](https://x.com/imjustnewatai/status/2109811005395996875) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:48 | — |
 | <a href="https://x.com/imjustnewatai/status/2107970825542345211"><img src="https://pbs.twimg.com/amplify_video_thumb/2107970490560049153/img/j-Sb8OPW9MZpglNo.jpg" width="160" alt="OpenAI 23 页 π 证明：2 分钟配音 3D 讲解"></a> | [OpenAI's 23-page π proof as a narrated 2-min 3D explainer](https://x.com/imjustnewatai/status/2107970825542345211) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 2:14 | — |
 | <a href="https://x.com/imjustnewatai/status/2106204392588276065"><img src="https://upload.maynor1024.live/file/1791037716213_u_2106204392588276065.jpg" width="160" alt="动画解说：Altman 与 Amodei 的恩怨"></a> | [Explainer: the Altman–Amodei feud](https://x.com/imjustnewatai/status/2106204392588276065) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:41 | — |
 

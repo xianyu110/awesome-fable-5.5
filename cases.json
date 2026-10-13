@@ -1,6 +1,6 @@
 {
  "name": "Awesome Fable 5.5",
- "updated_at": "2026-10-09 11:47 (UTC+8)",
+ "updated_at": "2026-10-13 10:23 (UTC+8)",
  "note_zh": "Fable 5.5 尚未官宣；模型归属以各作者自述为准。互动数为整理时数值。作品版权归原作者。",
  "categories": [
   {
@@ -271,6 +271,27 @@
    "cover": "https://upload.maynor1024.live/file/1791037174888_c_2105786053412208835.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2105786053412208835"
+  },
+  {
+   "id": "2109570757579649086",
+   "category": "motion",
+   "model": "Fable 5.5",
+   "title_zh": "《Hosanna》宗教风音乐剧 MV",
+   "title_en": "Hosanna religious musical music video",
+   "description_zh": "与 @chetaslua 让 Fable 5.5 为自己作介绍曲，做成完整宗教音乐剧《Hosanna》；Suno 作曲、ElevenLabs 人声，并围着整首歌搭了同步 Three.js MV。",
+   "author": "ChrisGPT",
+   "author_url": "https://x.com/ChrisGPT",
+   "post_url": "https://x.com/ChrisGPT/status/2109570757579649086",
+   "posted_at_utc8": "2026-10-12 17:03",
+   "duration_seconds": 76,
+   "likes": 461,
+   "views": 22813,
+   "bookmarks": 176,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2109570463886151680/img/z20ErD5AveU0iqrF.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2109570757579649086"
   },
   {
    "id": "2105985484472377531",
@@ -567,6 +588,27 @@
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2106061220629602360"
   },
   {
+   "id": "2109658160269344801",
+   "category": "3d",
+   "model": "Fable 5.5",
+   "title_zh": "纯代码电影感 3D 世界：山体侵蚀云雾光影",
+   "title_en": "Cinematic 3D world entirely from code",
+   "description_zh": "零预制素材，1,135 行代码生成整座电影感 3D 世界：山脉、侵蚀、光照、云层、特效与音乐。",
+   "author": "Airo_07",
+   "author_url": "https://x.com/Airo_07",
+   "post_url": "https://x.com/Airo_07/status/2109658160269344801",
+   "posted_at_utc8": "2026-10-12 22:51",
+   "duration_seconds": 43,
+   "likes": 7,
+   "views": 572,
+   "bookmarks": 2,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2109658105722368000/img/-UxYEPVerp6iOLUP.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2109658160269344801"
+  },
+  {
    "id": "2105783868699906505",
    "category": "3d",
    "model": "Fable 5.5",
@@ -859,6 +901,27 @@
    "cover": "https://pbs.twimg.com/amplify_video_thumb/2107956735025500160/img/-P_YJ25lEZwgL6z1.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2107958931230241037"
+  },
+  {
+   "id": "2109811005395996875",
+   "category": "edu",
+   "model": "Fable 5.5",
+   "title_zh": "千禧年奖草莓证明：从 strawberry 到 Millennium Prize",
+   "title_en": "Millennium Prize strawberry proof explainer",
+   "description_zh": "Fable 5.5 调研突破、写脚本、搭 21 个 3D 场景、用代码作曲并渲染 3,240 帧，把 AI 从“strawberry”到宣称千禧年奖的两年跨越做成讲解动画。",
+   "author": "imjustnewatai",
+   "author_url": "https://x.com/imjustnewatai",
+   "post_url": "https://x.com/imjustnewatai/status/2109811005395996875",
+   "posted_at_utc8": "2026-10-13 08:58",
+   "duration_seconds": 108,
+   "likes": 26,
+   "views": 1837,
+   "bookmarks": 5,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2109810864337334272/img/MYEUtUqGQzDAmVk8.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2109811005395996875"
   },
   {
    "id": "2107970825542345211",
