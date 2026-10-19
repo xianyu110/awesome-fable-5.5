@@ -200,4 +200,10 @@ C = [
 ("2107164574239604925","ishuagra02","other","2026-10-05T17:42Z",228,15533,55,
  "Hello Claude 产品宣传动画","Hello Claude promo animation",
  "一支干净的 Hello Claude 品牌宣传动画，全部由 Fable 5.5 制作，适合参考“产品上线片”模板。",None,None),
+("2111941623034634356","dummerspast39","game","2026-10-18T22:04Z",15,1112,2,
+ "截图劫案小游戏：Fable 5.5 影子灰度可玩","Screenshot-heist mini-game (playable Fable 5.5)",
+ "作者自称在 Claude.ai 用影子上线的 Fable 5.5 做了一款可爱小游戏，并给出可玩链接 screenshot-heist-oct18；附演示视频。",None,"https://screenshot-heist-oct18.dummerspast39.chatgpt.site/"),
+("2111957286620930535","dummerspast39","motion","2026-10-18T23:07Z",62,2738,11,
+ "两分钟提示词直出动画（Fable 5.5）","Two-minute Fable 5.5 prompt → animation",
+ "作者称只花约 2 分钟提示 Claude Fable 5.5，就吐出一支较长动画视频；顺带吐槽 X 算法偏好低成本 AI 内容。帖子未附提示词全文。",None,None),
 ]

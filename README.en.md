@@ -2,7 +2,7 @@
 
 English | [简体中文](README.md)
 
-A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **59 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
+A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **61 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
 
 **[🌐 Open the gallery (filter, search, copy prompts) →](https://xianyu110.github.io/awesome-fable-5.5/)**
 
@@ -25,7 +25,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## Animation & Motion
 
-21 works
+22 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/ishuagra02/status/2106000055706784118"><img src="https://upload.maynor1024.live/file/1791037175887_c_2106000055706784118.jpg" width="160" alt="水彩风秋日动画"></a> | [Autumn in watercolor](https://x.com/ishuagra02/status/2106000055706784118) | Fable 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:25 | — |
 | <a href="https://x.com/AndrewOnXYZ/status/2105440970992963944"><img src="https://upload.maynor1024.live/file/1791037695313_u_2105440970992963944.jpg" width="160" alt="节拍动画《A warning from us》，结局有点诡异"></a> | [Beat-synced 'A warning from us'](https://x.com/AndrewOnXYZ/status/2105440970992963944) | Fable 5.5 | [@AndrewOnXYZ](https://x.com/AndrewOnXYZ) | 4:26 | — |
 | <a href="https://x.com/ishuagra02/status/2105779174921359470"><img src="https://upload.maynor1024.live/file/1791037702199_u_2105779174921359470.jpg" width="160" alt="Nintendo Switch SVG 动画：1 分 39 秒，$1.34"></a> | [Nintendo Switch SVG animation ($1.34)](https://x.com/ishuagra02/status/2105779174921359470) | Fable 5.5 | [@ishuagra02](https://x.com/ishuagra02) | 0:05 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2105779174921359470) |
+| <a href="https://x.com/dummerspast39/status/2111957286620930535"><img src="https://pbs.twimg.com/amplify_video_thumb/2111955205713428480/img/FM3KVokM_Ab1d1xX.jpg" width="160" alt="两分钟提示词直出动画（Fable 5.5）"></a> | [Two-minute Fable 5.5 prompt → animation](https://x.com/dummerspast39/status/2111957286620930535) | Fable 5.5 | [@dummerspast39](https://x.com/dummerspast39) | 4:32 | — |
 | <a href="https://x.com/notdwd/status/2107816799840690589"><img src="https://pbs.twimg.com/amplify_video_thumb/2107804568998567936/img/A5uhWWR9q-uB7qje.jpg" width="160" alt="1 小时内复刻高质量动效设计（附完整提示词）"></a> | [Pro motion design recreated in under an hour (full prompt)](https://x.com/notdwd/status/2107816799840690589) | Fable 5.5 | [@notdwd](https://x.com/notdwd) | 0:20 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2107816799840690589) |
 | <a href="https://x.com/atomtanstudio/status/2106135196483608745"><img src="https://upload.maynor1024.live/file/1791037707238_u_2106135196483608745.jpg" width="160" alt="动态歌词 MV：把歌喂给它，让它交“简历作品集”"></a> | [Kinetic-typography lyric video](https://x.com/atomtanstudio/status/2106135196483608745) | Fable 5.5 | [@atomtanstudio](https://x.com/atomtanstudio) | 4:39 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2106135196483608745) |
 | <a href="https://x.com/AnonymerNutze12/status/2105740440385499295"><img src="https://upload.maynor1024.live/file/1791037572859_c_pelican.jpg" width="160" alt="经典“鹈鹕骑自行车”SVG 基准"></a> | [Pelican-on-a-bicycle SVG benchmark](https://x.com/AnonymerNutze12/status/2105740440385499295) · [▶ Play](https://claude.ai/artifact/697meWJLt1jck5iq14x9HH) | Fable 5.5 | [@AnonymerNutze12](https://x.com/AnonymerNutze12) | — | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105740440385499295) |
@@ -68,7 +69,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## Games
 
-6 works
+7 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -78,6 +79,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/oalanicolas/status/2107803303832936679"><img src="https://pbs.twimg.com/amplify_video_thumb/2107801963777687552/img/EPmn9zUSh83dTVpQ.jpg" width="160" alt="浏览器里跑的“GTA6”（Fable 5.5 + Opus 5.5）"></a> | [Browser-playable “GTA6” (Fable 5.5 + Opus 5.5)](https://x.com/oalanicolas/status/2107803303832936679) | Fable 5.5 + Opus 5.5 | [@oalanicolas](https://x.com/oalanicolas) | 1:50 | — |
 | <a href="https://x.com/blueemi99/status/2108221060655055242"><img src="https://pbs.twimg.com/amplify_video_thumb/2108220392938545152/img/VLeytYV7Zz9SakIu.jpg" width="160" alt="一小时 oneshot 的 Minecraft 克隆（UI/生物/生物群系齐全）"></a> | [Minecraft clone oneshot: UI, mobs, biomes & more](https://x.com/blueemi99/status/2108221060655055242) · [▶ Play](https://claude.ai/artifact/QJQU3kDzXpMG1CBFCZceZ3) | Fable 5.5 | [@blueemi99](https://x.com/blueemi99) | 1:29 | — |
 | <a href="https://x.com/EMostaque/status/2106065029850091943"><img src="https://upload.maynor1024.live/file/1791037199682_c_2106065029850091943.jpg" width="160" alt="21 个世界、21 个 Boss 的网页游戏（可试玩）"></a> | [21 worlds, 21 bosses (playable)](https://x.com/EMostaque/status/2106065029850091943) · [▶ Play](https://claude.ai/artifact/EnXF5Lr8hj6mXrVcVAefq9) | Fable 5.5 | [@EMostaque](https://x.com/EMostaque) | 0:59 | — |
+| <a href="https://x.com/dummerspast39/status/2111941623034634356"><img src="https://pbs.twimg.com/amplify_video_thumb/2111941543095361536/img/tC9H5FcK632XpPD_.jpg" width="160" alt="截图劫案小游戏：Fable 5.5 影子灰度可玩"></a> | [Screenshot-heist mini-game (playable Fable 5.5)](https://x.com/dummerspast39/status/2111941623034634356) · [▶ Play](https://screenshot-heist-oct18.dummerspast39.chatgpt.site/) | Fable 5.5 | [@dummerspast39](https://x.com/dummerspast39) | 3:04 | — |
 
 ## Education & History
 

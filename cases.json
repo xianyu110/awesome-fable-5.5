@@ -1,6 +1,6 @@
 {
  "name": "Awesome Fable 5.5",
- "updated_at": "2026-10-13 10:23 (UTC+8)",
+ "updated_at": "2026-10-19 10:30 (UTC+8)",
  "note_zh": "Fable 5.5 尚未官宣；模型归属以各作者自述为准。互动数为整理时数值。作品版权归原作者。",
  "categories": [
   {
@@ -420,6 +420,27 @@
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2105779174921359470"
   },
   {
+   "id": "2111957286620930535",
+   "category": "motion",
+   "model": "Fable 5.5",
+   "title_zh": "两分钟提示词直出动画（Fable 5.5）",
+   "title_en": "Two-minute Fable 5.5 prompt → animation",
+   "description_zh": "作者称只花约 2 分钟提示 Claude Fable 5.5，就吐出一支较长动画视频；顺带吐槽 X 算法偏好低成本 AI 内容。帖子未附提示词全文。",
+   "author": "dummerspast39",
+   "author_url": "https://x.com/dummerspast39",
+   "post_url": "https://x.com/dummerspast39/status/2111957286620930535",
+   "posted_at_utc8": "2026-10-19 07:07",
+   "duration_seconds": 272,
+   "likes": 62,
+   "views": 2738,
+   "bookmarks": 11,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2111955205713428480/img/FM3KVokM_Ab1d1xX.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2111957286620930535"
+  },
+  {
    "id": "2107816799840690589",
    "category": "motion",
    "model": "Fable 5.5",
@@ -775,6 +796,27 @@
    "cover": "https://upload.maynor1024.live/file/1791037199682_c_2106065029850091943.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2106065029850091943"
+  },
+  {
+   "id": "2111941623034634356",
+   "category": "game",
+   "model": "Fable 5.5",
+   "title_zh": "截图劫案小游戏：Fable 5.5 影子灰度可玩",
+   "title_en": "Screenshot-heist mini-game (playable Fable 5.5)",
+   "description_zh": "作者自称在 Claude.ai 用影子上线的 Fable 5.5 做了一款可爱小游戏，并给出可玩链接 screenshot-heist-oct18；附演示视频。",
+   "author": "dummerspast39",
+   "author_url": "https://x.com/dummerspast39",
+   "post_url": "https://x.com/dummerspast39/status/2111941623034634356",
+   "posted_at_utc8": "2026-10-19 06:04",
+   "duration_seconds": 184,
+   "likes": 15,
+   "views": 1112,
+   "bookmarks": 2,
+   "prompt": null,
+   "play_url": "https://screenshot-heist-oct18.dummerspast39.chatgpt.site/",
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2111941543095361536/img/tC9H5FcK632XpPD_.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2111941623034634356"
   },
   {
    "id": "2106081142143168580",
