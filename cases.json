@@ -1,6 +1,6 @@
 {
  "name": "Awesome Fable 5.5",
- "updated_at": "2026-10-19 10:30 (UTC+8)",
+ "updated_at": "2026-10-20 10:30 (UTC+8)",
  "note_zh": "Fable 5.5 尚未官宣；模型归属以各作者自述为准。互动数为整理时数值。作品版权归原作者。",
  "categories": [
   {
@@ -483,6 +483,27 @@
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2106135196483608745"
   },
   {
+   "id": "2112259952224141654",
+   "category": "motion",
+   "model": "Fable 5.5",
+   "title_zh": "Sad AlbertX 短片：Fable 5.5 剪辑",
+   "title_en": "Sad AlbertX short film edited with Fable 5.5",
+   "description_zh": "作者称约 5 分钟短片由 Voxel+TTS 制作，剪辑归功于 Fable 5.5（Editor: Fable 5.5），并展示 Voxelbench 上的效果。帖子未附提示词。",
+   "author": "SadAlbert10",
+   "author_url": "https://x.com/SadAlbert10",
+   "post_url": "https://x.com/SadAlbert10/status/2112259952224141654",
+   "posted_at_utc8": "2026-10-20 03:09",
+   "duration_seconds": 302,
+   "likes": 8,
+   "views": 318,
+   "bookmarks": 0,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2112257809048088576/img/Wr4NkFIlUTdbeID5.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2112259952224141654"
+  },
+  {
    "id": "2105740440385499295",
    "category": "motion",
    "model": "Fable 5.5",
@@ -565,6 +586,27 @@
    "cover": "https://upload.maynor1024.live/file/1791037187087_c_2105822678519001360.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2105822678519001360"
+  },
+  {
+   "id": "2112275947634446639",
+   "category": "3d",
+   "model": "Fable 5.5",
+   "title_zh": "Dyson Fragment：单 HTML 约 1.5 小时（Fable 5.5）",
+   "title_en": "Dyson Fragment — single HTML in ~1.5h (Fable 5.5)",
+   "description_zh": "作者自称用 Fable 5.5 约 1.5 小时做出单 HTML 的 Dyson Fragment 演示，并附完整视频。帖子未附可玩链接与提示词。",
+   "author": "dummerspast39",
+   "author_url": "https://x.com/dummerspast39",
+   "post_url": "https://x.com/dummerspast39/status/2112275947634446639",
+   "posted_at_utc8": "2026-10-20 04:13",
+   "duration_seconds": 91,
+   "likes": 294,
+   "views": 18865,
+   "bookmarks": 65,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2112275784983359489/img/bC59Svic9ASZR9Tt.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2112275947634446639"
   },
   {
    "id": "2106050222828998967",
@@ -1153,6 +1195,27 @@
    "cover": "https://upload.maynor1024.live/file/1791037214674_c_2106323394350461031.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2106323394350461031"
+  },
+  {
+   "id": "2112166153250607201",
+   "category": "compare",
+   "model": "Fable 5.5",
+   "title_zh": "同一提示词：Fable 5.5 vs 5.1 做 Roadster 落地页",
+   "title_en": "Same prompt: Fable 5.5 vs 5.1 Tesla Roadster landing page",
+   "description_zh": "作者用同一提示词分别让 Fable 5.1 / 5.5 做特斯拉 Roadster 落地页，并录视频对比；自称 5.5 更能促成购买意向。帖子未附提示词全文。",
+   "author": "kaif9998",
+   "author_url": "https://x.com/kaif9998",
+   "post_url": "https://x.com/kaif9998/status/2112166153250607201",
+   "posted_at_utc8": "2026-10-19 20:57",
+   "duration_seconds": 45,
+   "likes": 13,
+   "views": 787,
+   "bookmarks": 3,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2112166031477329920/img/nKc86UuUXyDIkoCj.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2112166153250607201"
   },
   {
    "id": "2105733677003292983",

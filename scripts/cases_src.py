@@ -206,4 +206,13 @@ C = [
 ("2111957286620930535","dummerspast39","motion","2026-10-18T23:07Z",62,2738,11,
  "两分钟提示词直出动画（Fable 5.5）","Two-minute Fable 5.5 prompt → animation",
  "作者称只花约 2 分钟提示 Claude Fable 5.5，就吐出一支较长动画视频；顺带吐槽 X 算法偏好低成本 AI 内容。帖子未附提示词全文。",None,None),
+("2112275947634446639","dummerspast39","3d","2026-10-19T20:13Z",294,18865,65,
+ "Dyson Fragment：单 HTML 约 1.5 小时（Fable 5.5）","Dyson Fragment — single HTML in ~1.5h (Fable 5.5)",
+ "作者自称用 Fable 5.5 约 1.5 小时做出单 HTML 的 Dyson Fragment 演示，并附完整视频。帖子未附可玩链接与提示词。",None,None),
+("2112259952224141654","SadAlbert10","motion","2026-10-19T19:09Z",8,318,0,
+ "Sad AlbertX 短片：Fable 5.5 剪辑","Sad AlbertX short film edited with Fable 5.5",
+ "作者称约 5 分钟短片由 Voxel+TTS 制作，剪辑归功于 Fable 5.5（Editor: Fable 5.5），并展示 Voxelbench 上的效果。帖子未附提示词。",None,None),
+("2112166153250607201","kaif9998","compare","2026-10-19T12:57Z",13,787,3,
+ "同一提示词：Fable 5.5 vs 5.1 做 Roadster 落地页","Same prompt: Fable 5.5 vs 5.1 Tesla Roadster landing page",
+ "作者用同一提示词分别让 Fable 5.1 / 5.5 做特斯拉 Roadster 落地页，并录视频对比；自称 5.5 更能促成购买意向。帖子未附提示词全文。",None,None),
 ]

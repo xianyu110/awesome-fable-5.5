@@ -2,7 +2,7 @@
 
 English | [简体中文](README.md)
 
-A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **61 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
+A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **64 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
 
 **[🌐 Open the gallery (filter, search, copy prompts) →](https://xianyu110.github.io/awesome-fable-5.5/)**
 
@@ -25,7 +25,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## Animation & Motion
 
-22 works
+23 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -50,17 +50,19 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/dummerspast39/status/2111957286620930535"><img src="https://pbs.twimg.com/amplify_video_thumb/2111955205713428480/img/FM3KVokM_Ab1d1xX.jpg" width="160" alt="两分钟提示词直出动画（Fable 5.5）"></a> | [Two-minute Fable 5.5 prompt → animation](https://x.com/dummerspast39/status/2111957286620930535) | Fable 5.5 | [@dummerspast39](https://x.com/dummerspast39) | 4:32 | — |
 | <a href="https://x.com/notdwd/status/2107816799840690589"><img src="https://pbs.twimg.com/amplify_video_thumb/2107804568998567936/img/A5uhWWR9q-uB7qje.jpg" width="160" alt="1 小时内复刻高质量动效设计（附完整提示词）"></a> | [Pro motion design recreated in under an hour (full prompt)](https://x.com/notdwd/status/2107816799840690589) | Fable 5.5 | [@notdwd](https://x.com/notdwd) | 0:20 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2107816799840690589) |
 | <a href="https://x.com/atomtanstudio/status/2106135196483608745"><img src="https://upload.maynor1024.live/file/1791037707238_u_2106135196483608745.jpg" width="160" alt="动态歌词 MV：把歌喂给它，让它交“简历作品集”"></a> | [Kinetic-typography lyric video](https://x.com/atomtanstudio/status/2106135196483608745) | Fable 5.5 | [@atomtanstudio](https://x.com/atomtanstudio) | 4:39 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2106135196483608745) |
+| <a href="https://x.com/SadAlbert10/status/2112259952224141654"><img src="https://pbs.twimg.com/amplify_video_thumb/2112257809048088576/img/Wr4NkFIlUTdbeID5.jpg" width="160" alt="Sad AlbertX 短片：Fable 5.5 剪辑"></a> | [Sad AlbertX short film edited with Fable 5.5](https://x.com/SadAlbert10/status/2112259952224141654) | Fable 5.5 | [@SadAlbert10](https://x.com/SadAlbert10) | 5:02 | — |
 | <a href="https://x.com/AnonymerNutze12/status/2105740440385499295"><img src="https://upload.maynor1024.live/file/1791037572859_c_pelican.jpg" width="160" alt="经典“鹈鹕骑自行车”SVG 基准"></a> | [Pelican-on-a-bicycle SVG benchmark](https://x.com/AnonymerNutze12/status/2105740440385499295) · [▶ Play](https://claude.ai/artifact/697meWJLt1jck5iq14x9HH) | Fable 5.5 | [@AnonymerNutze12](https://x.com/AnonymerNutze12) | — | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105740440385499295) |
 
 ## 3D & Three.js
 
-8 works
+9 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
 | <a href="https://x.com/JaydenDavisNC/status/2107086714820870617"><img src="https://pbs.twimg.com/amplify_video_thumb/2107086270514044928/img/zujM-sQh4dqJNAEW.jpg" width="160" alt="Blender 全流程点阵动画：音乐/建模/绑定"></a> | [Blender dots full pipeline: music, models, rigs](https://x.com/JaydenDavisNC/status/2107086714820870617) | Fable 5.5 | [@JaydenDavisNC](https://x.com/JaydenDavisNC) | 0:17 | — |
 | <a href="https://x.com/imjustnewatai/status/2105889407056109991"><img src="https://upload.maynor1024.live/file/1791037183240_c_2105889407056109991.jpg" width="160" alt="超复杂 3D 鲁布·戈德堡机械 + 1 分钟视频"></a> | [3D Rube Goldberg machine + 1-min video](https://x.com/imjustnewatai/status/2105889407056109991) | Fable 5.5 | [@imjustnewatai](https://x.com/imjustnewatai) | 1:00 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105889407056109991) |
 | <a href="https://x.com/zAdrielsan/status/2105822678519001360"><img src="https://upload.maynor1024.live/file/1791037187087_c_2105822678519001360.jpg" width="160" alt="用 Bend2 写三体问题模拟，还附带形式化证明"></a> | [Three-body simulation in Bend2, with proofs](https://x.com/zAdrielsan/status/2105822678519001360) · [▶ Play](https://github.com/AdrielSantana/three-bodies) | Fable 5.5 | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105822678519001360) |
+| <a href="https://x.com/dummerspast39/status/2112275947634446639"><img src="https://pbs.twimg.com/amplify_video_thumb/2112275784983359489/img/bC59Svic9ASZR9Tt.jpg" width="160" alt="Dyson Fragment：单 HTML 约 1.5 小时（Fable 5.5）"></a> | [Dyson Fragment — single HTML in ~1.5h (Fable 5.5)](https://x.com/dummerspast39/status/2112275947634446639) | Fable 5.5 | [@dummerspast39](https://x.com/dummerspast39) | 1:31 | — |
 | <a href="https://x.com/notjazii/status/2106050222828998967"><img src="https://upload.maynor1024.live/file/1791037189568_c_2106050222828998967.jpg" width="160" alt="可交互的 3D Xbox 手柄：音效、开关机、充电、震动"></a> | [Interactive 3D Xbox controller](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 0:34 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2106050222828998967) |
 | <a href="https://x.com/alannnfx/status/2106061220629602360"><img src="https://upload.maynor1024.live/file/1791037192549_c_2106061220629602360.jpg" width="160" alt="布加迪 Chiron 超跑 3D 模型"></a> | [Bugatti Chiron 3D model](https://x.com/alannnfx/status/2106061220629602360) | Fable 5.5 | [@alannnfx](https://x.com/alannnfx) | — | — |
 | <a href="https://x.com/Airo_07/status/2109658160269344801"><img src="https://pbs.twimg.com/amplify_video_thumb/2109658105722368000/img/-UxYEPVerp6iOLUP.jpg" width="160" alt="纯代码电影感 3D 世界：山体侵蚀云雾光影"></a> | [Cinematic 3D world entirely from code](https://x.com/Airo_07/status/2109658160269344801) | Fable 5.5 | [@Airo_07](https://x.com/Airo_07) | 0:43 | — |
@@ -99,7 +101,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## Comparisons
 
-7 works
+8 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -110,6 +112,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/notjazii/status/2106368606502334922"><img src="https://upload.maynor1024.live/file/1791037217317_c_2106368606502334922.jpg" width="160" alt="连测几天后的结论：比 5.1 大幅进步，但依旧很贵"></a> | [After days of testing: big step up, still pricey](https://x.com/notjazii/status/2106368606502334922) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 1:25 | — |
 | <a href="https://x.com/notjazii/status/2107497752217460896"><img src="https://pbs.twimg.com/amplify_video_thumb/2107497541386608640/img/A68to733RgDy5n1c.jpg" width="160" alt="Claude vs GPT：全代码对比视频"></a> | [Claude vs GPT code-drawn comparison video](https://x.com/notjazii/status/2107497752217460896) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 1:24 | — |
 | <a href="https://x.com/alannnfx/status/2106323394350461031"><img src="https://upload.maynor1024.live/file/1791037214674_c_2106323394350461031.jpg" width="160" alt="同一提示词：Fable 5.1 vs 5.5 布加迪 Chiron"></a> | [Same prompt: Fable 5.1 vs 5.5 (Bugatti)](https://x.com/alannnfx/status/2106323394350461031) | Fable 5.5 vs 5.1 | [@alannnfx](https://x.com/alannnfx) | 0:16 | — |
+| <a href="https://x.com/kaif9998/status/2112166153250607201"><img src="https://pbs.twimg.com/amplify_video_thumb/2112166031477329920/img/nKc86UuUXyDIkoCj.jpg" width="160" alt="同一提示词：Fable 5.5 vs 5.1 做 Roadster 落地页"></a> | [Same prompt: Fable 5.5 vs 5.1 Tesla Roadster landing page](https://x.com/kaif9998/status/2112166153250607201) | Fable 5.5 | [@kaif9998](https://x.com/kaif9998) | 0:45 | — |
 
 ## Other (self-check, promos, tools)
 
