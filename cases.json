@@ -1,6 +1,6 @@
 {
  "name": "Awesome Fable 5.5",
- "updated_at": "2026-10-20 10:30 (UTC+8)",
+ "updated_at": "2026-10-21 10:30 (UTC+8)",
  "note_zh": "Fable 5.5 尚未官宣；模型归属以各作者自述为准。互动数为整理时数值。作品版权归原作者。",
  "categories": [
   {
@@ -273,6 +273,27 @@
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2105786053412208835"
   },
   {
+   "id": "2112601036804243871",
+   "category": "motion",
+   "model": "Fable 5.5",
+   "title_zh": "夜色中的发光河流（Fable 5.5，开声音）",
+   "title_en": "A luminescent river on a quiet night (Fable 5.5, sound on)",
+   "description_zh": "作者称这段安静夜色里的发光河流由 Fable 5.5 生成，建议开声音观看。帖子未附提示词。",
+   "author": "scottstts",
+   "author_url": "https://x.com/scottstts",
+   "post_url": "https://x.com/scottstts/status/2112601036804243871",
+   "posted_at_utc8": "2026-10-21 01:45",
+   "duration_seconds": 54,
+   "likes": 505,
+   "views": 17813,
+   "bookmarks": 165,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2112600097775099904/img/LYxvyeF0aU5ZNVMa.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2112601036804243871"
+  },
+  {
    "id": "2109570757579649086",
    "category": "motion",
    "model": "Fable 5.5",
@@ -397,6 +418,27 @@
    "cover": "https://upload.maynor1024.live/file/1791037695313_u_2105440970992963944.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2105440970992963944"
+  },
+  {
+   "id": "2112490492684296664",
+   "category": "motion",
+   "model": "Fable 5.5",
+   "title_zh": "SVG 动画：马骑宇航员（Fable 5.5）",
+   "title_en": "SVG animation: a horse riding an astronaut (Fable 5.5)",
+   "description_zh": "经典「宇航员骑马」的反转版：作者用 Fable 5.5 生成马骑宇航员的 SVG 动画，并录屏展示。帖子未附提示词全文。",
+   "author": "dummerspast39",
+   "author_url": "https://x.com/dummerspast39",
+   "post_url": "https://x.com/dummerspast39/status/2112490492684296664",
+   "posted_at_utc8": "2026-10-20 18:25",
+   "duration_seconds": 15,
+   "likes": 111,
+   "views": 4730,
+   "bookmarks": 10,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2112490465287168000/img/ML0LToel8a_qn_38.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2112490492684296664"
   },
   {
    "id": "2105779174921359470",
@@ -861,6 +903,27 @@
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2111941623034634356"
   },
   {
+   "id": "2112617098090582117",
+   "category": "game",
+   "model": "Fable 5.5",
+   "title_zh": "治愈系网页小游戏：小骑士找回太阳（Fable 5.5）",
+   "title_en": "Cozy web game: a tiny knight brings the sun back (Fable 5.5)",
+   "description_zh": "Crayon 官方账号发布的网页游戏：小骑士、蓝色悬崖，目标是把太阳带回来；帖内称 Built with Fable 5.5，并附可玩链接。帖子未附提示词。",
+   "author": "usecrayon",
+   "author_url": "https://x.com/usecrayon",
+   "post_url": "https://x.com/usecrayon/status/2112617098090582117",
+   "posted_at_utc8": "2026-10-21 02:49",
+   "duration_seconds": 30,
+   "likes": 7,
+   "views": 456,
+   "bookmarks": 1,
+   "prompt": null,
+   "play_url": "https://app.usecrayon.ai/play/46de7103-9f82-45d9-aa63-e1e6222542c2",
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2112616565401436160/img/g8w4sy-dXoE3vE_Z.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2112617098090582117"
+  },
+  {
    "id": "2106081142143168580",
    "category": "edu",
    "model": "Fable 5.5",
@@ -1321,6 +1384,27 @@
    "cover": "https://upload.maynor1024.live/file/1791037714145_u_2106138602073641241.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2106138602073641241"
+  },
+  {
+   "id": "2112499975989190948",
+   "category": "other",
+   "model": "Fable 5.5",
+   "title_zh": "角色工作流工厂（Fable 5.5 搭建）",
+   "title_en": "Character workflow factory built by Fable 5.5",
+   "description_zh": "作者称 Fable 5.5 为他搭了一个角色生成工作流「工厂」，视频展示近完成版本，作者表示完成后再分享。帖子未附提示词与链接。",
+   "author": "luccacerf",
+   "author_url": "https://x.com/luccacerf",
+   "post_url": "https://x.com/luccacerf/status/2112499975989190948",
+   "posted_at_utc8": "2026-10-20 19:03",
+   "duration_seconds": 33,
+   "likes": 86,
+   "views": 4510,
+   "bookmarks": 80,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2112499796451717120/img/nBmYRxocE8y-HCnx.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2112499975989190948"
   },
   {
    "id": "2105913312072577218",
