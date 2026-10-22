@@ -2,7 +2,7 @@
 
 [English](README.en.md) | 简体中文
 
-这里收集了 X 上创作者自称用 **Claude Fable 5.5**（目前仅灰度、尚未官宣）做出的动画短片、3D 场景、小游戏、科普视频和对比测试。去重筛选后共 **68 个作品**，分 6 类，其中 **16 个附有作者公开的提示词**，68 个带预览图。每条都署名并链接到原帖。
+这里收集了 X 上创作者自称用 **Claude Fable 5.5**（目前仅灰度、尚未官宣）做出的动画短片、3D 场景、小游戏、科普视频和对比测试。去重筛选后共 **69 个作品**，分 6 类，其中 **16 个附有作者公开的提示词**，69 个带预览图。每条都署名并链接到原帖。
 
 **[🌐 打开在线画廊：按分类筛选、搜索、一键复制提示词 →](https://xianyu110.github.io/awesome-fable-5.5/)**
 
@@ -28,7 +28,7 @@
 - 只收**创作者本人发布的原帖**；搬运、转发别人视频的帖子不收，发现后改链到原作者。
 - 作者在帖子里**明确写了是 Fable 5.5 做的**。Fable 5.5 截至 2026 年 10 月初**还没有正式发布**，大家拿到的是 Fable 5.1 被静默路由后的版本，所以模型归属**完全以作者的说法为准**，本仓库没有逐条复现。
 - 提示词只引用**公开可查**的内容：原帖正文或作者本人的回复，并保留英文原文；找不到出处的留空。
-- 同一作者的相似作品只留代表作；按点赞数排序，互动数为整理时的快照（2026-10-21 10:30 (UTC+8)）。
+- 同一作者的相似作品只留代表作；按点赞数排序，互动数为整理时的快照（2026-10-22 10:30 (UTC+8)）。
 
 ## 如何判断你是否用上了 Fable 5.5
 
@@ -74,7 +74,7 @@ do you know tibo the reset guy? don't search
 
 ## 3D / Three.js
 
-9 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=3d)
+10 个作品 · [在线画廊查看](https://xianyu110.github.io/awesome-fable-5.5/?cat=3d)
 
 | 预览 | 作品 | 模型 | 创作者 | 时长 | 提示词 |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@ do you know tibo the reset guy? don't search
 | <a href="https://x.com/zAdrielsan/status/2105822678519001360"><img src="https://upload.maynor1024.live/file/1791037187087_c_2105822678519001360.jpg" width="160" alt="用 Bend2 写三体问题模拟，还附带形式化证明"></a> | [用 Bend2 写三体问题模拟，还附带形式化证明](https://x.com/zAdrielsan/status/2105822678519001360) · [▶ 试玩](https://github.com/AdrielSantana/three-bodies) | Fable 5.5 | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [一句话指令](https://xianyu110.github.io/awesome-fable-5.5/#2105822678519001360) |
 | <a href="https://x.com/dummerspast39/status/2112275947634446639"><img src="https://pbs.twimg.com/amplify_video_thumb/2112275784983359489/img/bC59Svic9ASZR9Tt.jpg" width="160" alt="Dyson Fragment：单 HTML 约 1.5 小时（Fable 5.5）"></a> | [Dyson Fragment：单 HTML 约 1.5 小时（Fable 5.5）](https://x.com/dummerspast39/status/2112275947634446639) | Fable 5.5 | [@dummerspast39](https://x.com/dummerspast39) | 1:31 | — |
 | <a href="https://x.com/notjazii/status/2106050222828998967"><img src="https://upload.maynor1024.live/file/1791037189568_c_2106050222828998967.jpg" width="160" alt="可交互的 3D Xbox 手柄：音效、开关机、充电、震动"></a> | [可交互的 3D Xbox 手柄：音效、开关机、充电、震动](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 0:34 | [完整提示词](https://xianyu110.github.io/awesome-fable-5.5/#2106050222828998967) |
+| <a href="https://x.com/luccacerf/status/2113025837565870162"><img src="https://pbs.twimg.com/amplify_video_thumb/2113025460900704256/img/rDaVZm8rInLfdTVI.jpg" width="160" alt="角色工厂跑通 3D AI 管线：Tripo→Blender→Unity（Fable 5.5）"></a> | [角色工厂跑通 3D AI 管线：Tripo→Blender→Unity（Fable 5.5）](https://x.com/luccacerf/status/2113025837565870162) | Fable 5.5 | [@luccacerf](https://x.com/luccacerf) | 1:43 | — |
 | <a href="https://x.com/alannnfx/status/2106061220629602360"><img src="https://upload.maynor1024.live/file/1791037192549_c_2106061220629602360.jpg" width="160" alt="布加迪 Chiron 超跑 3D 模型"></a> | [布加迪 Chiron 超跑 3D 模型](https://x.com/alannnfx/status/2106061220629602360) | Fable 5.5 | [@alannnfx](https://x.com/alannnfx) | — | — |
 | <a href="https://x.com/Airo_07/status/2109658160269344801"><img src="https://pbs.twimg.com/amplify_video_thumb/2109658105722368000/img/-UxYEPVerp6iOLUP.jpg" width="160" alt="纯代码电影感 3D 世界：山体侵蚀云雾光影"></a> | [纯代码电影感 3D 世界：山体侵蚀云雾光影](https://x.com/Airo_07/status/2109658160269344801) | Fable 5.5 | [@Airo_07](https://x.com/Airo_07) | 0:43 | — |
 | <a href="https://x.com/popat_kunj/status/2105783868699906505"><img src="https://upload.maynor1024.live/file/1791037194928_c_2105783868699906505.jpg" width="160" alt="一句话的 3D 航海场景：太阳在不同地平线"></a> | [一句话的 3D 航海场景：太阳在不同地平线](https://x.com/popat_kunj/status/2105783868699906505) | Fable 5.5 | [@popat_kunj](https://x.com/popat_kunj) | — | [一句话指令](https://xianyu110.github.io/awesome-fable-5.5/#2105783868699906505) |

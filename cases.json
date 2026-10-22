@@ -1,6 +1,6 @@
 {
  "name": "Awesome Fable 5.5",
- "updated_at": "2026-10-21 10:30 (UTC+8)",
+ "updated_at": "2026-10-22 10:30 (UTC+8)",
  "note_zh": "Fable 5.5 尚未官宣；模型归属以各作者自述为准。互动数为整理时数值。作品版权归原作者。",
  "categories": [
   {
@@ -670,6 +670,27 @@
    "cover": "https://upload.maynor1024.live/file/1791037189568_c_2106050222828998967.jpg",
    "preview_gif": null,
    "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2106050222828998967"
+  },
+  {
+   "id": "2113025837565870162",
+   "category": "3d",
+   "model": "Fable 5.5",
+   "title_zh": "角色工厂跑通 3D AI 管线：Tripo→Blender→Unity（Fable 5.5）",
+   "title_en": "Character factory hits a real 3D AI harness (Fable 5.5)",
+   "description_zh": "作者称用 Fable 5.5 配合多个 Opus 5.5 agent 搭建角色工厂两天后，跑通 Tripo P2 → Blender → Cartwheel → Cascadeur → Unity CLI 的 3D AI 管线，并附演示视频。帖子未附提示词。",
+   "author": "luccacerf",
+   "author_url": "https://x.com/luccacerf",
+   "post_url": "https://x.com/luccacerf/status/2113025837565870162",
+   "posted_at_utc8": "2026-10-22 05:53",
+   "duration_seconds": 103,
+   "likes": 125,
+   "views": 7521,
+   "bookmarks": 187,
+   "prompt": null,
+   "play_url": null,
+   "cover": "https://pbs.twimg.com/amplify_video_thumb/2113025460900704256/img/rDaVZm8rInLfdTVI.jpg",
+   "preview_gif": null,
+   "gallery_url": "https://xianyu110.github.io/awesome-fable-5.5/#2113025837565870162"
   },
   {
    "id": "2106061220629602360",

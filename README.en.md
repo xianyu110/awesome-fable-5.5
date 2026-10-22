@@ -2,7 +2,7 @@
 
 English | [简体中文](README.md)
 
-A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **68 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
+A curated list of animations, 3D scenes, games, explainers and comparisons that creators on X say were made with **Claude Fable 5.5** — a model that is **not officially released yet** (some Fable 5.1 users are being silently routed to a newer checkpoint). **69 works**, 16 with publicly shared prompts. Every entry credits the creator and links to the original post.
 
 **[🌐 Open the gallery (filter, search, copy prompts) →](https://xianyu110.github.io/awesome-fable-5.5/)**
 
@@ -57,7 +57,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 
 ## 3D & Three.js
 
-9 works
+10 works
 
 | Preview | Work | Model | Creator | Length | Prompt |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@ A curated list of animations, 3D scenes, games, explainers and comparisons that 
 | <a href="https://x.com/zAdrielsan/status/2105822678519001360"><img src="https://upload.maynor1024.live/file/1791037187087_c_2105822678519001360.jpg" width="160" alt="用 Bend2 写三体问题模拟，还附带形式化证明"></a> | [Three-body simulation in Bend2, with proofs](https://x.com/zAdrielsan/status/2105822678519001360) · [▶ Play](https://github.com/AdrielSantana/three-bodies) | Fable 5.5 | [@zAdrielsan](https://x.com/zAdrielsan) | 2:14 | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105822678519001360) |
 | <a href="https://x.com/dummerspast39/status/2112275947634446639"><img src="https://pbs.twimg.com/amplify_video_thumb/2112275784983359489/img/bC59Svic9ASZR9Tt.jpg" width="160" alt="Dyson Fragment：单 HTML 约 1.5 小时（Fable 5.5）"></a> | [Dyson Fragment — single HTML in ~1.5h (Fable 5.5)](https://x.com/dummerspast39/status/2112275947634446639) | Fable 5.5 | [@dummerspast39](https://x.com/dummerspast39) | 1:31 | — |
 | <a href="https://x.com/notjazii/status/2106050222828998967"><img src="https://upload.maynor1024.live/file/1791037189568_c_2106050222828998967.jpg" width="160" alt="可交互的 3D Xbox 手柄：音效、开关机、充电、震动"></a> | [Interactive 3D Xbox controller](https://x.com/notjazii/status/2106050222828998967) | Fable 5.5 | [@notjazii](https://x.com/notjazii) | 0:34 | [Full prompt](https://xianyu110.github.io/awesome-fable-5.5/#2106050222828998967) |
+| <a href="https://x.com/luccacerf/status/2113025837565870162"><img src="https://pbs.twimg.com/amplify_video_thumb/2113025460900704256/img/rDaVZm8rInLfdTVI.jpg" width="160" alt="角色工厂跑通 3D AI 管线：Tripo→Blender→Unity（Fable 5.5）"></a> | [Character factory hits a real 3D AI harness (Fable 5.5)](https://x.com/luccacerf/status/2113025837565870162) | Fable 5.5 | [@luccacerf](https://x.com/luccacerf) | 1:43 | — |
 | <a href="https://x.com/alannnfx/status/2106061220629602360"><img src="https://upload.maynor1024.live/file/1791037192549_c_2106061220629602360.jpg" width="160" alt="布加迪 Chiron 超跑 3D 模型"></a> | [Bugatti Chiron 3D model](https://x.com/alannnfx/status/2106061220629602360) | Fable 5.5 | [@alannnfx](https://x.com/alannnfx) | — | — |
 | <a href="https://x.com/Airo_07/status/2109658160269344801"><img src="https://pbs.twimg.com/amplify_video_thumb/2109658105722368000/img/-UxYEPVerp6iOLUP.jpg" width="160" alt="纯代码电影感 3D 世界：山体侵蚀云雾光影"></a> | [Cinematic 3D world entirely from code](https://x.com/Airo_07/status/2109658160269344801) | Fable 5.5 | [@Airo_07](https://x.com/Airo_07) | 0:43 | — |
 | <a href="https://x.com/popat_kunj/status/2105783868699906505"><img src="https://upload.maynor1024.live/file/1791037194928_c_2105783868699906505.jpg" width="160" alt="一句话的 3D 航海场景：太阳在不同地平线"></a> | [Ship at sea with moving sun](https://x.com/popat_kunj/status/2105783868699906505) | Fable 5.5 | [@popat_kunj](https://x.com/popat_kunj) | — | [One-liner](https://xianyu110.github.io/awesome-fable-5.5/#2105783868699906505) |

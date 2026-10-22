@@ -227,4 +227,7 @@ C = [
 ("2112499975989190948","luccacerf","other","2026-10-20T11:03Z",86,4510,80,
  "角色工作流工厂（Fable 5.5 搭建）","Character workflow factory built by Fable 5.5",
  "作者称 Fable 5.5 为他搭了一个角色生成工作流「工厂」，视频展示近完成版本，作者表示完成后再分享。帖子未附提示词与链接。",None,None),
+("2113025837565870162","luccacerf","3d","2026-10-21T21:53Z",125,7521,187,
+ "角色工厂跑通 3D AI 管线：Tripo→Blender→Unity（Fable 5.5）","Character factory hits a real 3D AI harness (Fable 5.5)",
+ "作者称用 Fable 5.5 配合多个 Opus 5.5 agent 搭建角色工厂两天后，跑通 Tripo P2 → Blender → Cartwheel → Cascadeur → Unity CLI 的 3D AI 管线，并附演示视频。帖子未附提示词。",None,None),
 ]
